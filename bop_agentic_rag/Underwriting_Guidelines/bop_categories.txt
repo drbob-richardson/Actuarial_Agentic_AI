@@ -1,6 +1,5 @@
 Accounting & Financial Services
 Actuarial & Appraisal Services
-Adult Day Care
 Advertising Agencies
 Air Conditioning & Heating (Sales/Service/Manufacturing)
 Alarm System Installation
@@ -9,18 +8,15 @@ Animal & Veterinary Services
 Answering & Telemarketing Services
 Antique & Collectible Stores
 Appliance Sales & Repair
-Architectural Services
 Army/Navy/Military Surplus Stores
 Art Galleries & Art Supply Stores
 Artificial Flowers & Floral Supplies
 Artists & Craft Studios
 Asphalt & Paving Services
 Assembly & Packaging Services
-Associations (Business, Professional, Civic, Alumni, Trade)
 Audio & Visual Equipment Sales/Service
 Auto Parts & Accessories
 Auto Services & Repair (including body shops)
-Awning Installation
 Bakeries & Bagel Shops
 Banks & Credit Unions
 Barber & Beauty Salons
@@ -33,7 +29,6 @@ Bookstores & Magazines
 Bridal Shops
 Building Materials & Supplies
 Business & Management Consultants
-Cabinet Installation & Sales
 Cable & Telecommunications
 Camera & Photo Supply Stores
 Camping & Outdoor Equipment Stores
@@ -50,7 +45,6 @@ Concrete & Masonry Services
 Convenience Stores
 Cosmetics & Toiletries
 Countertop & Surface Installation
-Court Reporting Services
 Craft & Hobby Stores
 Dairy & Ice Cream Shops
 Dance, Drama, & Music Schools
@@ -60,7 +54,6 @@ Department & Discount Stores
 Detective & Security Services
 Diaper & Linen Services
 Door & Window Installation/Sales
-Doughnut Shops
 Dry Cleaning & Laundry Services
 Educational & School Supply Stores
 Electrical Equipment & Supplies
@@ -70,12 +63,11 @@ Employment Agencies
 Engineering & Surveying
 Fabric & Sewing Stores
 Fast Food & Family Restaurants
-Fence Installation & Sales
 Financial Planners & Investment Firms
 Floor Covering & Carpet Installation
 Florists
 Food & Grocery Stores
-Frozen Yogurt & Dessert Shops
+Dessert Shops
 Fruit & Vegetable Markets
 Furniture Stores & Installation
 Garden & Landscaping Services
@@ -89,11 +81,9 @@ Health Food & Vitamin Stores
 Heating & Refrigeration Services
 Hobby & Model Shops
 Hotels, Motels, Bed & Breakfasts
-Industrial & Manufacturing (light)
 Interior Decorating & Design
 Janitorial & Cleaning Services
 Jewelry & Watch Stores
-Juice & Beverage Shops
 Kitchen & Home Accessories Stores
 Laundromats & Laundry Services
 Leather Goods & Luggage Stores
@@ -110,7 +100,6 @@ Optical Goods & Services
 Paint & Wallpaper Stores
 Pet Stores & Pet Grooming
 Photography Studios & Supplies
-Pizza Shops & Italian Restaurants
 Plumbing & HVAC Contractors
 Post Office & Shipping Centers
 Printing & Copying Services
@@ -119,7 +108,6 @@ Restaurants (Various Types: Full Service, Limited Service, Fast Food)
 Self Storage Facilities
 Shoe Stores & Repair
 Shopping Centers & Strip Malls
-Sign Manufacturing & Installation
 Sporting Goods Stores
 Stationery & Paper Products
 Supermarkets & Grocery Stores
@@ -131,12 +119,9 @@ Travel Agencies
 Trophy & Awards Shops
 Upholstery Services
 Vacuum Cleaner Sales & Service
-Valet & Uniform Services
 Variety & General Merchandise Stores
-Veterinary Clinics
 Video & Media Stores
 Web Design & Online Services
 Wedding Services & Chapels
-Wholesale Distribution (Various)
 Window Treatments & Blinds
 Woodworking & Carpentry
