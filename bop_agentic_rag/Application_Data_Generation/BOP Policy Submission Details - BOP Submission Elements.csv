@@ -1,0 +1,76 @@
+Section,Element Name,Description,Valid Fields
+Applicant Information,NAME,First Named Insured,Free Text
+Applicant Information,FEIN OR SOC SEC #,Federal Employer ID Number or Social Security Number,Free Text
+Applicant Information,BUSINESS TYPE,Type of business entity,"Individual, Partnership, Corporation, LLC, Joint Venture, Other"
+Applicant Information,MAILING ADDRESS,"Business mailing address, including ZIP+4",Free Text
+Applicant Information,CONTACT FOR INSPECTION,Primary person to contact for inspections,Free Text
+Applicant Information,GL CODE,General Liability classification code,Free Text
+Applicant Information,SIC,Standard Industrial Classification Code,Free Text
+Applicant Information,NATURE OF BUSINESS,Brief description of business operations,"Office, Service, Retail, Wholesale, Apartments, Condominiums, Restuarant, Contractor, FILL IN OTHER"
+Applicant Information,DESCRIPTION OF OPERATIONS,Descriptions of business operations,Free Text
+Applicant Information,DATE BUSINESS STARTED,Date when business operations began,MM/DD/YYYY
+Policy Information,EFFECTIVE DATE,Policy start date,MM/DD/YYYY
+Policy Information,EXPIRATION DATE,Policy end date,MM/DD/YYYY
+Policy Information,NEW/RENEWAL,Whether the policy is new or being renewed,"NEW, RNWL"
+Policy Information,PAYMENT PLAN,Premium payment plan,"Monthly, Quarterly, Semi-Annual, Annual, Single-Premium"
+Policy Information,TOTAL PREMIUM,Total cost of the policy,Currency
+Policy Information,POLICY #,Unique policy number,Alphanumeric
+General Information,GENERAL INFO QUESTIONS,"Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)",Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,Are athletic teams sponsored?,Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,"Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?",Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,"Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?",Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,"Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)",Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,Do you lease employees to or from other employers?,Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,Any Workers Compensation carried?,Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,Do you own or operate any other business?,Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,Any other insurance with this company? (List policy numbers),Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,"Are you involved in manufacturing, mixing, relabeling, or repackaging of products?",Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,Do you rent or loan equipment to others?,Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,"Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?",Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,"Any exposure to flammables, explosives, or chemicals?",Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,Any catastrophe exposure?,Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,"Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?",Yes/No with Explanation
+General Information,GENERAL INFO QUESTIONS,Any uncorrected fire code violations?,Yes/No with Explanation
+General Information,OTHER BUSINESSES OWNED,Unlisted owned or operated business locations,Free Text
+Prior Policy/Loss History,PREVIOUS CARRIER,Name of the previous insurance provider,Free Text
+Prior Policy/Loss History,POLICY NUMBER,Previous policy number,Alphanumeric
+Prior Policy/Loss History,TOTAL PREMIUM,Premium paid under previous policy,Currency
+Prior Policy/Loss History,EXPIRATION DATE,Date prior coverage ended,MM/DD/YYYY
+Prior Policy/Loss History,TOTAL LOSSES,Sum of past insured losses,Currency
+Prior Policy/Loss History,DESCRIPTION OF LOSSES,"Loss dates, cause, amount, status",Free Text
+Liability Coverages,Combined Single Limit,Limit and deductible for combined single limit,Limit and Deductible
+Liability Coverages,Bodily Injury & Prop Damage Occurrrence,Limit and deductible for BI and PD Occurrence,Limit and Deductible
+Liability Coverages,Bodily Injury & Prop Damage Aggregate,Limit and deductible for BI and PD Aggregate,Limit and Deductible
+Liability Coverages,Medical Expense (per person),Limit and deductible for Medical Expense,Limit and Deductible
+Liability Coverages,Damge to Rental Premises,Limit and deductible for Damage to rental Premises,Limit and Deductible
+Liability Coverages,Professional Liability,Limit and deductible for Professional Liaiblity,Limit and Deductible
+Liability Coverages,Liquor Liability,Limit and deductible for Liquor Liability,Limit and Deductible
+Liability Coverages,Hired Auto,Limit and deductible for Hired Auto,Limit and Deductible
+Liability Coverages,Non-owned Auto,Limit and deductible for Non-owned auto,Limit and Deductible
+Additional Coverages,Computers,Limit and deductible for computer coverage,Limit and Deductible
+Additional Coverages,ordinence and law,Limit and deductible for Ordinace & Law coverage,Limit and Deductible
+Additional Coverages,Flood,Limit and deductible for flood coverage,Limit and Deductible
+Additional Coverages,accounts recievable,Limit and deductible for accounts recievable coverage,Limit and Deductible
+Additional Coverages,employee dishonesty,Limit and deductible for employee dishonesty,Limit and Deductible
+Additional Coverages,money and securities,Limit and deductible for money and securities,Limit and Deductible
+Premises Description,ADDRESS,Physical address of the premise,Limit and Deductible
+Premises Description,Year Built,Year the insured premise was built,year
+Premises Description,Square Feet,square feet of insured premise,numeric
+Premises Description,HOURS OF OPERATION,Business hours per location,Time Range
+Premises Description,Distance to hydrant,in feet,numeric
+Premises Description,OCCUPANCY,Nature of space use,"Retail, Office, Service, etc."
+Premises Description,BUILDING IMPROVEMENTS,"Year of wiring, roofing, plumbing, heating",Year
+Premises Description,BASEMENT PRESENT,Whether the building has a basement,Yes/No
+Premises Description,SPRINKLER PERCENTAGE,Sprinkler coverage percentage,0–100%
+Premises Description,ANNUAL SALES,Total annual gross sales,Currency
+Premises Description,TOTAL PAYROLL,Total payroll amount,Currency
+Premises Description,NO. OF EMPLOYEES,Number of employees,Integer
+Crime & Safety,ALARM TYPE,"Type of alarm (e.g., local gong, police connected)","Local, Central Station, None"
+Crime & Safety,SAFE/VAULT DETAILS,"Safe or vault class, grade, and label",Free Text
+Crime & Safety,MONEY ON PREMISES,Max overnight cash held on premises,Currency
+Crime & Safety,OTHER PROTECTION,"Fencing, watchpersons, etc.",Free Text
+Property Coverage,Building limit,limit of building coverage,numeric
+Property Coverage,building % Coinsurance,percentage coinsurance,numeric
+Property Coverage,personal property valuation type,"Replacement cost, actual cost value",Free Text
+Property Coverage,personal property limit,Limit for peronsal property coverage,numeric
+Property Coverage,personal property % Coinsurance,percentage coinsurance for personal property coverage,numeric
