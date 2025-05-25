@@ -1,0 +1,66 @@
+[
+  {
+    "Business Name":"Accounting & Financial Services - 86b9ed",
+    "Credit Score":658,
+    "Credit Rating":"Average",
+    "Google Review Count":46,
+    "Average Review Rating":3.4,
+    "Sample Reviews":[
+      "The lack of professionalism and attention to detail demonstrated by this accounting firm resulted in missed deadlines and significant errors in my financial reports.",
+      "Despite their promising advertisements, this accounting firm displayed shocking incompetence, consistently making errors in my financial reports and showing little understanding of tax laws.",
+      "Terrible experience with this accounting firm; the lack of communication, high fees, and numerous errors made during tax season left me thoroughly dissatisfied.",
+      "Despite their professional facade, this Accounting & Financial Services firm consistently made careless mistakes on our tax filings, resulting in costly penalties for our business.",
+      "I am extremely dissatisfied with their accounting services as they consistently make mistakes and their customer service is unhelpful and rude when attempting to rectify these errors."
+    ],
+    "Number of Claims":2,
+    "Total Losses":11608
+  },
+  {
+    "Business Name":"Actuarial & Appraisal Services - 601e6d",
+    "Credit Score":812,
+    "Credit Rating":"Good",
+    "Google Review Count":250,
+    "Average Review Rating":1.4,
+    "Sample Reviews":[
+      "The team at the actuarial and appraisal service were extremely professional and provided reliable valuations, but their slow response times occasionally hindered progress.",
+      "The professionals at this actuarial and appraisal service have truly made understanding complex risk evaluations easy, delivering accurate valuations with unparalleled efficiency and precision.",
+      "The team at this Actuarial and Appraisal Services firm demonstrates excellent knowledge and precision in providing detailed valuations and risk assessments.",
+      "The appraisals provided by this company were consistently inaccurate, resulting in significant financial losses for our business.",
+      "The analytical finesse and professional demeanor of their actuaries made the appraisal process seamless, spot-on, and truly worth every penny spent!"
+    ],
+    "Number of Claims":5,
+    "Total Losses":15310
+  },
+  {
+    "Business Name":"SoMa Creative Partners",
+    "Credit Score":789,
+    "Credit Rating":"Good",
+    "Google Review Count":118,
+    "Average Review Rating":1.0,
+    "Sample Reviews":[
+      "The team at this advertising agency is incredibly creative and strategic, which has significantly boosted our brand's visibility and market reach.",
+      "The agency provided a comprehensive range of advertising services with efficient communication, but their pricing was slightly on the higher side.",
+      "The creative team at this advertising agency is truly innovative and expert in delivering impactful, targeted campaigns that helped increase our brand visibility significantly.",
+      "Despite their flashy presentations, this advertising agency consistently missed deadlines which adversely affected our marketing campaigns.",
+      "The team at the advertising agency exhibited professionalism and creativity throughout our campaign, but the constant upselling of additional services was slightly off-putting."
+    ],
+    "Number of Claims":5,
+    "Total Losses":34445
+  },
+  {
+    "Business Name":"Cool Breeze HVAC Inc.",
+    "Credit Score":618,
+    "Credit Rating":"Average",
+    "Google Review Count":124,
+    "Average Review Rating":2.8,
+    "Sample Reviews":[
+      "The technicians at this business efficiently installed our new air conditioning system and provided excellent after-sales service to ensure it was operating correctly.",
+      "The service from this company was excellent, with professional technicians who installed our new air conditioning and heating system efficiently, and their high-quality product has made our home comfortable all year round.",
+      "I am extremely disappointed with this company's poor customer service, their air conditioning units constantly malfunction, and their repair service is both costly and ineffective.",
+      "The technicians at this air conditioning and heating company were knowledgeable and efficient, but the overall service was quite pricey.",
+      "The prompt installation, noteworthy service and consistently high-performing air conditioning and heating systems offered by this company have made my home infinitely more comfortable."
+    ],
+    "Number of Claims":3,
+    "Total Losses":16197
+  }
+]

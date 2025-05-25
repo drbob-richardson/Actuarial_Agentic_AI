@@ -1,0 +1,21 @@
+Section,Element Name,Description,Valid Fields
+Liability Coverages,Combined Single Limit,Limit and deductible for combined single limit,Limit and Deductible
+Liability Coverages,Bodily Injury & Prop Damage Occurrrence,Limit and deductible for BI and PD Occurrence,Limit and Deductible
+Liability Coverages,Bodily Injury & Prop Damage Aggregate,Limit and deductible for BI and PD Aggregate,Limit and Deductible
+Liability Coverages,Medical Expense (per person),Limit and deductible for Medical Expense,Limit and Deductible
+Liability Coverages,Damge to Rental Premises,Limit and deductible for Damage to rental Premises,Limit and Deductible
+Liability Coverages,Professional Liability,Limit and deductible for Professional Liaiblity,Limit and Deductible
+Liability Coverages,Liquor Liability,Limit and deductible for Liquor Liability,Limit and Deductible
+Liability Coverages,Hired Auto,Limit and deductible for Hired Auto,Limit and Deductible
+Liability Coverages,Non-owned Auto,Limit and deductible for Non-owned auto,Limit and Deductible
+Additional Coverages,Computers,Limit and deductible for computer coverage,Limit and Deductible
+Additional Coverages,ordinence and law,Limit and deductible for Ordinace & Law coverage,Limit and Deductible
+Additional Coverages,Flood,Limit and deductible for flood coverage,Limit and Deductible
+Additional Coverages,accounts recievable,Limit and deductible for accounts recievable coverage,Limit and Deductible
+Additional Coverages,employee dishonesty,Limit and deductible for employee dishonesty,Limit and Deductible
+Additional Coverages,money and securities,Limit and deductible for money and securities,Limit and Deductible
+Property Coverage,Building limit,limit of building coverage,numeric
+Property Coverage,building % Coinsurance,percentage coinsurance,numeric
+Property Coverage,personal property valuation type,"Replacement cost, actual cost value",Free Text
+Property Coverage,personal property limit,Limit for peronsal property coverage,numeric
+Property Coverage,personal property % Coinsurance,percentage coinsurance for personal property coverage,numeric
