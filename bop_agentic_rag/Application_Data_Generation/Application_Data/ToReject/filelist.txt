@@ -1,0 +1,131 @@
+Accounting _ Financial Services_9da172.json
+Accounting _ Financial Services_f84706.json
+Actuarial _ Appraisal Services_6d3ece.json
+Actuarial _ Appraisal Services_e006f2.json
+Advertising Agencies_6f5ced.json
+Advertising Agencies_e5da9f.json
+Air Conditioning _ Heating (Sales_Service_Manufacturing)_761475.json
+Air Conditioning _ Heating (Sales_Service_Manufacturing)_bf8607.json
+Alarm System Installation_012041.json
+Ambulance _ Emergency Services_3add49.json
+Animal _ Veterinary Services_b5af44.json
+Answering _ Telemarketing Services_1f5372.json
+Antique _ Collectible Stores_11b69e.json
+Appliance Sales _ Repair_f90f7c.json
+Army_Navy_Military Surplus Stores_571a73.json
+Art Galleries _ Art Supply Stores_77b0fb.json
+Artificial Flowers _ Floral Supplies_14871a.json
+Artists _ Craft Studios_1630d1.json
+Asphalt _ Paving Services_064f52.json
+Assembly _ Packaging Services_bf938b.json
+Audio _ Visual Equipment Sales_Service_a1f943.json
+Auto Parts _ Accessories_170e0c.json
+Auto Services _ Repair (including body shops)_8ce3e9.json
+Bakeries _ Bagel Shops_f9fc67.json
+Banks _ Credit Unions_67b3ac.json
+Barber _ Beauty Salons_ef5996.json
+Bath _ Bedding Shops_4271b2.json
+Beverage Distributors _ Retailers (including Beer_ Liquor_ Wine)_4f8cac.json
+Bicycle Sales _ Service_6096cc.json
+Binderies _ Printing Services_d890e1.json
+Boiler _ Furnace Installation_Repair_dff4b6.json
+Bookstores _ Magazines_090c6f.json
+Bridal Shops_b76f2b.json
+Building Materials _ Supplies_b850b5.json
+Business _ Management Consultants_e27768.json
+Cable _ Telecommunications_677aa4.json
+Camera _ Photo Supply Stores_86dd7b.json
+Camping _ Outdoor Equipment Stores_402d64.json
+Candy _ Confectionery Stores_61183a.json
+Catering _ Food Preparation Services_1e3224.json
+Cellular Phone Sales_Service_6400fd.json
+Cemeteries _ Funeral Services_ae23e5.json
+Churches _ Religious Organizations_d419e5.json
+Clothing _ Apparel (Retail _ Wholesale)_b8bac7.json
+Clubs _ Recreation Facilities_f948ef.json
+Coffee Shops _ Tea Houses_19e743.json
+Computer _ Technology Services_640b49.json
+Concrete _ Masonry Services_4c84be.json
+Convenience Stores_cb11b8.json
+Cosmetics _ Toiletries_c2619f.json
+Countertop _ Surface Installation_fbaac9.json
+Craft _ Hobby Stores_f0ac6f.json
+Dairy _ Ice Cream Shops_21ea7f.json
+Dance_ Drama_ _ Music Schools_a38968.json
+Day Care _ Child Care Centers_725cb9.json
+Delicatessens _ Sandwich Shops_ec65d8.json
+Department _ Discount Stores_529fc6.json
+Dessert Shops_c1e60a.json
+Detective _ Security Services_d777f4.json
+Diaper _ Linen Services_cff462.json
+Door _ Window Installation_Sales_e9fd8b.json
+Dry Cleaning _ Laundry Services_2b2d87.json
+Educational _ School Supply Stores_dbc74e.json
+Electrical Equipment _ Supplies_864201.json
+Electronics Stores _ Repair_8c2cdb.json
+Embroidery _ Custom Apparel_62518d.json
+Employment Agencies_14260f.json
+Engineering _ Surveying_2d3775.json
+Fabric _ Sewing Stores_08bc64.json
+Fast Food _ Family Restaurants_27fd12.json
+Financial Planners _ Investment Firms_78dc21.json
+Floor Covering _ Carpet Installation_81c537.json
+Florists_5566eb.json
+Food _ Grocery Stores_5e4339.json
+Fruit _ Vegetable Markets_7e2e0b.json
+Furniture Stores _ Installation_96d759.json
+Garden _ Landscaping Services_7e7e79.json
+General Contractors _ Builders_ba6e99.json
+Gift _ Souvenir Shops_de3101.json
+Glass _ Window Services_e9b55c.json
+Golf _ Sporting Equipment Stores_66cb96.json
+Graphic Design _ Commercial Artists_76f4ca.json
+Hardware _ Home Improvement Stores_726223.json
+Health Food _ Vitamin Stores_01dff1.json
+Heating _ Refrigeration Services_4de6b4.json
+Hobby _ Model Shops_087e39.json
+Hotels_ Motels_ Bed _ Breakfasts_ae5122.json
+Interior Decorating _ Design_0e0591.json
+Janitorial _ Cleaning Services_91cbf0.json
+Jewelry _ Watch Stores_2a4882.json
+Kitchen _ Home Accessories Stores_837bd0.json
+Laundromats _ Laundry Services_2784b6.json
+Leather Goods _ Luggage Stores_71c2ea.json
+Libraries _ Museums_d90d7d.json
+Lighting Fixtures _ Supplies_274428.json
+Locksmiths_3da246.json
+Mail _ Packaging Services_7b7086.json
+Medical _ Dental Offices_078702.json
+Medical _ Hospital Supply Stores_e11173.json
+Monument _ Tombstone Sales_8dea6c.json
+Musical Instrument Sales _ Repair_df2224.json
+Office Supplies _ Equipment_84587a.json
+Optical Goods _ Services_f7c414.json
+Paint _ Wallpaper Stores_d7b445.json
+Pet Stores _ Pet Grooming_6fee06.json
+Photography Studios _ Supplies_92380b.json
+Plumbing _ HVAC Contractors_dd3e22.json
+Post Office _ Shipping Centers_ba96fc.json
+Printing _ Copying Services_6ff70e.json
+Real Estate Agencies_e481bd.json
+Restaurants (Various Types_ Full Service_ Limited Service_ Fast Food)_74d935.json
+Self Storage Facilities_684c8f.json
+Shoe Stores _ Repair_7f6c15.json
+Shopping Centers _ Strip Malls_ab0918.json
+Sporting Goods Stores_cf4074.json
+Stationery _ Paper Products_8aa61e.json
+Supermarkets _ Grocery Stores_790815.json
+Tailors _ Dressmakers_4ed5f6.json
+Tax Preparation _ Accounting_1256a6.json
+Tire _ Automotive Centers_461d15.json
+Toy Stores_a3b20b.json
+Travel Agencies_380355.json
+Trophy _ Awards Shops_a006f6.json
+Upholstery Services_a16b79.json
+Vacuum Cleaner Sales _ Service_229466.json
+Variety _ General Merchandise Stores_310555.json
+Video _ Media Stores_1636c1.json
+Web Design _ Online Services_461cb5.json
+Wedding Services _ Chapels_9c58ae.json
+Window Treatments _ Blinds_fe0266.json
+Woodworking _ Carpentry_872447.json
