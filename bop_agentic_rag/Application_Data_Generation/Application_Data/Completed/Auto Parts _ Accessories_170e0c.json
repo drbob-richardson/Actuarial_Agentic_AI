@@ -6,8 +6,8 @@
     "MAILING ADDRESS": "1234 Main Street, Anytown, CA 90210-1234",
     "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, ABC Auto Parts Supply Co. 1234 Main Street, Anytown, CA 90210-1234, Phone: (555) 123-4567, Email: john.smith@abcautoparts.com",
     "GL CODE": "7510",
-    "SIC": "5013",
-    "NATURE OF BUSINESS": "Service",
+    "SIC": "3714",
+    "NATURE OF BUSINESS": "Wholesale",
     "DESCRIPTION OF OPERATIONS": "ABC Auto Parts Supply Co. specializes in the retail and wholesale distribution of auto parts and accessories. Our operations include a well-lit storefront that provides a wide range of automotive components, tools, and accessories to meet customer needs. We focus on non-performance related parts and do not offer installation of high-performance aftermarket parts to mitigate risks associated with mechanical failures. Our facility is designed with clear signage to ensure customer safety, and we operate during regular business hours only, adhering to insurance guidelines. We do not engage in emergency wrecker services and do not utilize guard dogs on the premises, ensuring a safe environment for both employees and customers.",
     "DATE BUSINESS STARTED": "01/15/2015",
     "EFFECTIVE DATE": "10/01/2023",
@@ -16,7 +16,7 @@
     "PAYMENT PLAN": "Annual",
     "TOTAL PREMIUM": "$\"5000.00",
     "POLICY #": "ABC-2023-00456",
-    "GENERAL INFO QUESTIONS": "1. No - The business does not store, treat, discharge, apply, dispose of, or transport hazardous materials such as landfills, wastes, or fuel tanks.\n2. No - The business does not sponsor any athletic teams.\n3. No - Sub-contractors are not allowed to work without providing a certificate of insurance; the manager checks all certificates to ensure compliance.\n4. No - The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other related crime.\n5. No - There have been no policies or coverages declined, canceled, or non-renewed during the prior three years.\n6. No - The business does not lease employees to or from other employers.\n7. Yes - Workers Compensation coverage is carried for employees to ensure compliance and protection.\n8. No - The applicant does not own or operate any other business.\n9. No - There is no other insurance with this company; thus, no policy numbers to list.\n10. No - The business is not involved in manufacturing, mixing, relabeling, or repackaging of products.\n11. No - The business does not rent or loan equipment to others.\n12. No - The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.\n13. No - There is no exposure to flammables, explosives, or chemicals in the operations.\n14. No - There is no catastrophe exposure related to the business activities.\n15. No - There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring.\n16. No - There are no uncorrected fire code violations.",
+    "GENERAL INFO QUESTIONS": "1. No - The business does not store, treat, discharge, apply, dispose of, or transport hazardous materials such as landfills, wastes, or fuel tanks. 2. No - The business does not sponsor any athletic teams. 3. No - Sub-contractors are not allowed to work without providing a certificate of insurance; the manager checks all certificates to ensure compliance. 4. No - The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other related crime. 5. No - There have been no policies or coverages declined, canceled, or non-renewed during the prior three years. 6. No - The business does not lease employees to or from other employers. 7. Yes - Workers Compensation coverage is carried for employees to ensure compliance and protection. 8. No - The applicant does not own or operate any other business. 9. No - There is no other insurance with this company; thus, no policy numbers to list. 10. No - The business is not involved in manufacturing, mixing, relabeling, or repackaging of products. 11. No - The business does not rent or loan equipment to others. 12. No - The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. 13. No - There is no exposure to flammables, explosives, or chemicals in the operations. 14. No - There is no catastrophe exposure related to the business activities. 15. No - There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. 16. No - There are no uncorrected fire code violations.",
     "OTHER BUSINESSES OWNED": "None",
     "PREVIOUS CARRIER": "Acme Insurance Group",
     "POLICY NUMBER": "ABC-ACME-2022-12345",
@@ -37,7 +37,7 @@
     "accounts recievable": "$500,000 / $1,000",
     "employee dishonesty": "$250,000 / $1,000",
     "money and securities": "$100,000 / $1,000",
-    "ADDRESS": "ADDRESS\": \"5678 Oak Avenue, Anytown, CA 90210-5678",
+    "ADDRESS": "5678 Oak Avenue, Anytown, CA 90210-5678",
     "Year Built": "1990",
     "Square Feet": "1500",
     "HOURS OF OPERATION": "08:00 AM - 06:00 PM",
@@ -72,9 +72,9 @@
       "I had a fantastic experience at this auto parts store! The staff was incredibly knowledgeable and helped me find the exact parts I needed for my vehicle, all while offering great advice on installation. Their wide selection and competitive prices made it easy to get everything I was looking for in one trip."
     ],
     "Number of Claims": 2,
-    "Total Losses": 5230
+    "Total Losses": 2000
   },
-  "Final Decision": "REJECT",
-  "Final Reason": "The application indicates a history of claims and losses totaling $2,000, combined with increased risk of accidents as per underwriting guidelines, resulting in a higher risk profile for the business type.",
+  "Final Decision": "Accept",
+  "Final Reason": "Though the business has two claims, they are small losses. There is no indication of a lack of adhering to standards or safety regulations. ",
   "Underwriting Guidelines": "proper lighting and signage.\nIndustry-Specific Restrictions\n\u2022 No 24-Hour Operations or Emergency Wrecker Services: Shops operating around the\nclock or providing emergency towing are excluded due to increased risk of accidents during\noff-hours and higher liability exposures.\n\u2022 Limits on Non-Owned Autos and Tools: Coverage for non-owned autos and tools must\nadhere to specified policy limits. For example, non-owned auto liability coverage should be\ncarefully reviewed to ensure it does not exceed the insured\u2019s operational needs, mitigating\noverexposure.\n\u2022 Prohibition on Guard Dogs: Use of guard dogs on premises is disallowed due to potential\nliability for dog bites or injuries to employees and customers.\n\u2022 Restriction on Aftermarket Performance Parts Installation: Installation or modifica-\ntion involving high-performance aftermarket parts (e.g., turbochargers, nitrous oxide systems)\nis prohibited. These modifications increase the risk of mechanical failure and accidents, which"
 }
