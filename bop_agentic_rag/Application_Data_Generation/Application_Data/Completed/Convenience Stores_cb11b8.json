@@ -6,7 +6,7 @@
     "MAILING ADDRESS": "123 Main St, Springfield, IL 62701-1234",
     "CONTACT FOR INSPECTION": "John Doe",
     "GL CODE": "9998",
-    "SIC": "541103",
+    "SIC": "5411",
     "NATURE OF BUSINESS": "Retail",
     "DESCRIPTION OF OPERATIONS": "Smith's Corner Market is a retail convenience store that offers a variety of grocery items, snacks, beverages, and household essentials to the local community. Our operations prioritize customer service and convenience, with a focus on maintaining high standards of food safety and quality. We ensure that perishable items are stored properly with adequate refrigeration and implement strict inventory management practices to minimize spoilage. Additionally, we are committed to maintaining a safe shopping environment for our customers and staff.",
     "DATE BUSINESS STARTED": "01/15/2015",
@@ -16,7 +16,7 @@
     "PAYMENT PLAN": "Monthly",
     "TOTAL PREMIUM": "$\"2500.00",
     "POLICY #": "SCM-2023-001",
-    "GENERAL INFO QUESTIONS": "1. **No** - The business does not involve storing, treating, or transporting hazardous materials beyond typical convenience store operations.  \\n2. **No** - The convenience store does not sponsor athletic teams.  \\n3. **No** - Sub-contractors are not allowed to work without a certificate of insurance; the business owner checks certificates.  \\n4. **No** - The applicant has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime.  \\n5. **No** - There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years.  \\n6. **No** - The business does not lease employees to or from other employers.  \\n7. **Yes** - Workers Compensation is carried to cover employee-related injuries.  \\n8. **No** - The applicant does not own or operate any other business.  \\n9. **No** - There are no other insurances with this company.  \\n10. **No** - The convenience store is not involved in manufacturing, mixing, relabeling, or repackaging of products.  \\n11. **No** - The business does not rent or loan equipment to others.  \\n12. **No** - The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.  \\n13. **Yes** - There is exposure to flammables due to typical convenience store operations, but not significantly beyond standard retail practices.  \\n14. **No** - There is no exposure to catastrophe risks beyond typical risks faced in retail.  \\n15. **No** - There have been no past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring.  \\n16. **No** - There are no uncorrected fire code violations.",
+    "GENERAL INFO QUESTIONS": "1. **No** - The business does not involve storing, treating, or transporting hazardous materials beyond typical convenience store operations.  \\n2. **No** - The convenience store does not sponsor athletic teams.  \\n3. **No** - Sub-contractors are not allowed to work without a certificate of insurance; the business owner checks certificates.  \\n4. **No** - The applicant has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime.  \\n5. **No** - There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years.  \\n6. **No** - The business does not lease employees to or from other employers.  \\n7. **Yes** - Workers Compensation is carried to cover employee-related injuries.  \\n8. **No** - The applicant does not own or operate any other business.  \\n9. **No** - There are no other insurances with this company.  \\n10. **No** - The convenience store is not involved in manufacturing, mixing, relabeling, or repackaging of products.  \\n11. **No** - The business does not rent or loan equipment to others.  \\n12. **No** - The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.  \\n13. **Yes** - There is exposure to flammables due to propane refilling stations, but not significantly beyond standard retail practices.  \\n14. **No** - There is no exposure to catastrophe risks beyond typical risks faced in retail.  \\n15. **No** - There have been no past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring.  \\n16. **No** - There are no uncorrected fire code violations.",
     "OTHER BUSINESSES OWNED": "N/A",
     "PREVIOUS CARRIER": "Acme Insurance Company",
     "POLICY NUMBER": "SCM-2022-045",
@@ -71,8 +71,8 @@
       "The convenience store offers a good selection of everyday items at reasonable prices, making it a handy stop for quick shopping needs.",
       "I recently visited this convenience store and found it to be well-stocked with a variety of snacks and beverages. The staff was friendly and quick to assist, making my shopping experience pleasant. Overall, it\u2019s a convenient stop for everyday essentials."
     ],
-    "Number of Claims": 1,
-    "Total Losses": 4130
+    "Number of Claims": 2,
+    "Total Losses": 2500
   },
   "Final Decision": "REJECT",
   "Final Reason": "The business operations involve typical convenience store activities, but the presence of exposure to flammables due to retail operations is a concern. Additionally, the initial rejection reason mentions operations involving propane or kerosene filling stations, which may not align with underwriting guidelines.",
