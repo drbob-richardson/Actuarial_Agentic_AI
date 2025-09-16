@@ -3,7 +3,7 @@
     "NAME": "Electra Supply Co.",
     "FEIN OR SOC SEC #": "12-3456789",
     "BUSINESS TYPE": "Corporation",
-    "MAILING ADDRESS": "1234 Electric Ave, Suite 100  \\nSpringfield, IL 62701-1234",
+    "MAILING ADDRESS": "1234 Electric Ave, Suite 100  Springfield, IL 62701-1234",
     "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Electra Supply Co.",
     "GL CODE": "4214",
     "SIC": "3699",
@@ -20,7 +20,7 @@
     "OTHER BUSINESSES OWNED": "None",
     "PREVIOUS CARRIER": "XYZ Insurance Group",
     "POLICY NUMBER": "ELECTRA-2022-002",
-    "TOTAL LOSSES": "$0.00",
+    "TOTAL LOSSES": "$75,000.00",
     "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2022; Cause: Theft of inventory due to a security breach; Amount: $75,000; Status: Recovered through insurance claim.",
     "Combined Single Limit": "1000000/10000",
     "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$10,000",
@@ -67,12 +67,12 @@
     "Sample Reviews": [
       "I had a fantastic experience at this electrical supplies store; the staff was incredibly knowledgeable and helped me find exactly what I needed for my project!",
       "I had a fantastic experience at this electrical equipment store, where the knowledgeable staff helped me find exactly what I needed and offered great advice on my project!",
-      "I recently visited [Business Name] for some electrical supplies, and I was thoroughly impressed with the wide selection they offered. The staff was incredibly knowledgeable, helping me find exactly what I needed for my project without any fuss. I highly recommend this store for anyone in search of quality electrical equipment and friendly service!",
-      "I recently visited ABC Electrical Supplies and was thoroughly impressed by their extensive selection of products and knowledgeable staff. The team was eager to help answer my questions and guided me to exactly what I needed for my project. I left the store feeling confident in my purchases and will definitely be returning for future electrical needs!",
+      "I recently visited Electra Supply for some electrical supplies, and I was thoroughly impressed with the wide selection they offered. The staff was incredibly knowledgeable, helping me find exactly what I needed for my project without any fuss. I highly recommend this store for anyone in search of quality electrical equipment and friendly service!",
+      "I recently visited Electra Supply and was thoroughly impressed by their extensive selection of products and knowledgeable staff. The team was eager to help answer my questions and guided me to exactly what I needed for my project. I left the store feeling confident in my purchases and will definitely be returning for future electrical needs!",
       "I recently purchased a range of electrical supplies from this store, and I found their selection to be quite impressive. The staff was knowledgeable and helped me find exactly what I needed for my project. Overall, my shopping experience was efficient and satisfactory."
     ],
-    "Number of Claims": 2,
-    "Total Losses": 12102
+    "Number of Claims": 1,
+    "Total Losses": 75000
   },
   "Final Decision": "REJECT",
   "Final Reason": "This business is rejected due to a specific underwriting exclusion related to the number of claims and total losses exceeding acceptable thresholds.",
