@@ -6,8 +6,8 @@
     "MAILING ADDRESS": "123 Main Street, Suite 101, Springfield, IL 62701-1234",
     "CONTACT FOR INSPECTION": "Jessica Taylor",
     "GL CODE": "812112",
-    "SIC": "812112",
-    "NATURE OF BUSINESS": "FILL IN OTHER",
+    "SIC": "7231",
+    "NATURE OF BUSINESS": "Service",
     "DESCRIPTION OF OPERATIONS": "Glamour Locks Salon offers a full range of hair and beauty services, including haircuts, coloring, styling, and nail care. Our salon is dedicated to providing exceptional customer service while ensuring the highest standards of hygiene and safety. We use only FDA-approved products and maintain strict sanitation protocols to protect our clients' health. Our skilled staff undergoes regular training to stay updated on the latest trends and techniques in the beauty industry. We also prioritize secure handling of client information to mitigate risks associated with data security.",
     "DATE BUSINESS STARTED": "01/15/2018",
     "EFFECTIVE DATE": "11/01/2023",
@@ -69,10 +69,10 @@
       "\"I had an amazing experience at this salon\u2014fantastic service, friendly staff, and I absolutely love my haircut!\"",
       "\"I had a fantastic experience at this salon; the staff was friendly, and my haircut turned out exactly as I envisioned!\"",
       "The salon provided a relaxing atmosphere and skilled service, making my haircut experience enjoyable and satisfying.",
-      "I recently had an amazing experience at [Barber & Beauty Salon Name]. The staff was incredibly welcoming, and my stylist took the time to listen to exactly what I wanted, resulting in a haircut that exceeded my expectations. The salon itself was clean and well-maintained, making for a relaxing and enjoyable atmosphere. I can't wait to return!"
+      "I recently had an amazing experience at Glamour Locks Salon. The staff was incredibly welcoming, and my stylist took the time to listen to exactly what I wanted, resulting in a haircut that exceeded my expectations. The salon itself was clean and well-maintained, making for a relaxing and enjoyable atmosphere. I can't wait to return!"
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 1,
+    "Total Losses": 1000
   },
   "Final Decision": "ACCEPT",
   "Final Reason": "The application meets all underwriting guidelines with no unacceptable characteristics or missing coverage, and the business shows financial soundness and a stable insurance history."
