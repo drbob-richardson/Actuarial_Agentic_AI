@@ -6,13 +6,13 @@
     "MAILING ADDRESS": "1234 Stylish Ave, Suite 100, Salon City, CA 90210-1234",
     "CONTACT FOR INSPECTION": "Jessica Thompson",
     "GL CODE": "812199",
-    "SIC": "812199",
+    "SIC": "7231",
     "NATURE OF BUSINESS": "Service",
     "DESCRIPTION OF OPERATIONS": "Glamour Cuts Barber Shop is a full-service beauty salon offering a range of hair and beauty services, including haircuts, coloring, styling, and grooming for both men and women. Our experienced team of licensed cosmetologists and barbers prioritizes health and safety by adhering to strict sanitation protocols and utilizing high-quality products. We ensure a comfortable and welcoming environment for all clients, with ongoing training for staff on best practices for hygiene and customer service. In addition to core services, we also offer specialty treatments such as scalp massages and facials, providing a holistic approach to beauty and self-care.",
     "DATE BUSINESS STARTED": "01/15/2020",
     "EFFECTIVE DATE": "10/01/2023",
     "EXPIRATION DATE": "09/30/2023",
-    "NEW/RENEWAL": "NEW/RENEWAL: \"NEW",
+    "NEW/RENEWAL": "NEW",
     "PAYMENT PLAN": "Quarterly",
     "TOTAL PREMIUM": "$\"1500.00",
     "POLICY #": "GCBS-2023-001",
@@ -21,7 +21,7 @@
     "PREVIOUS CARRIER": "Salon Insurance Co.",
     "POLICY NUMBER": "GCBS-2022-045",
     "TOTAL LOSSES": "$2,500.00",
-    "DESCRIPTION OF LOSSES": "DESCRIPTION OF LOSSES\": \"Losses incurred during a slip-and-fall incident on 07/15/2022, resulting in medical expenses of $1,500.00. The claim was closed with a settlement paid. Additionally, a product-related allergic reaction reported on 03/10/2023 caused minor injuries, leading to expenses of $1,000.00, currently under review for potential claims. Total losses to date amount to $2,500.00.",
+    "DESCRIPTION OF LOSSES": "Losses incurred during a slip-and-fall incident on 07/15/2022, resulting in medical expenses of $1,500.00. The claim was closed with a settlement paid. Additionally, a product-related allergic reaction reported on 03/10/2023 caused minor injuries, leading to expenses of $1,000.00, currently under review for potential claims. Total losses to date amount to $2,500.00.",
     "Combined Single Limit": "1000000/5000",
     "Bodily Injury & Prop Damage Occurrrence": "1000000/5000",
     "Bodily Injury & Prop Damage Aggregate": "1000000/5000",
@@ -33,14 +33,14 @@
     "Non-owned Auto": "$100,000 / $1,000",
     "Computers": "$50,000 / $1,000",
     "ordinence and law": "$500,000 / $5,000",
-    "Flood": "Flood\": \"500000/1000",
+    "Flood": "500000/1000",
     "accounts recievable": "$500,000 / $5,000",
     "employee dishonesty": "$100,000 / $5,000",
     "money and securities": "$100,000 / $5,000",
     "ADDRESS": "1234 Stylish Ave, Suite 100, Salon City, CA 90210-1234",
     "Year Built": "1985",
     "Square Feet": "1200",
-    "HOURS OF OPERATION": "HOURS OF OPERATION\": \"Monday to Saturday: 9:00 AM - 7:00 PM; Sunday: Closed",
+    "HOURS OF OPERATION": "Monday to Saturday: 9:00 AM - 7:00 PM; Sunday: Closed",
     "Distance to hydrant": "150 feet",
     "OCCUPANCY": "Service",
     "BUILDING IMPROVEMENTS": "2015",
@@ -56,7 +56,7 @@
     "Building limit": "500000",
     "building % Coinsurance": "80",
     "personal property valuation type": "Actual cash value",
-    "personal property limit": "personal property limit\": \"250000",
+    "personal property limit": "250000",
     "personal property % Coinsurance": "80"
   },
   "Third-Party Data": {
@@ -69,12 +69,12 @@
       "I had an amazing experience at this salon, with friendly staff and a fantastic haircut that truly exceeded my expectations!",
       "I recently visited this barber and beauty salon and was pleased with the overall experience. The staff was friendly and attentive, ensuring I felt comfortable throughout my appointment. The haircut I received was exactly what I asked for, and the atmosphere was relaxed and welcoming.",
       "I had a fantastic experience at this salon, where the talented stylists gave me the perfect haircut and made me feel truly pampered!",
-      "I recently visited [Salon Name] and had an amazing experience! The staff was incredibly friendly and attentive, ensuring that I felt comfortable throughout my appointment. My haircut turned out exactly as I envisioned, and I left feeling refreshed and confident. Highly recommend this place for anyone looking for quality service!"
+      "I recently visited Glamour Cuts Barber Shop and had an amazing experience! The staff was incredibly friendly and attentive, ensuring that I felt comfortable throughout my appointment. My haircut turned out exactly as I envisioned, and I left feeling refreshed and confident. Highly recommend this place for anyone looking for quality service!"
     ],
     "Number of Claims": 2,
-    "Total Losses": 13766
+    "Total Losses": 2500
   },
-  "Final Decision": "REJECT",
-  "Final Reason": "The application is rejected due to violations related to total losses exceeding acceptable limits for underwriting, with reported losses amounting to $13,766, which raises concerns regarding the risk profile of the business.",
+  "Final Decision": "Accept",
+  "Final Reason": "The business follows rules and regulations set for beauty shops, specifically, sanitization and hygiene standards. They also do not exceed a threshold for losses.",
   "Underwriting Guidelines": "ness interruption coverage, including extensions for dependent properties (e.g., suppliers or\nneighboring businesses) and extra expense coverage to minimize downtime.\n\u2022 Health and Safety Compliance: Given the close physical contact with clients, salons must\nadhere to strict sanitation and hygiene standards to mitigate risks of infections or allergic\nreactions. Failure to comply can result in claims or regulatory penalties. Underwriters should\nverify documented protocols and training programs.\n\u2022 Employee and Client Injury Risks: Slip-and-fall incidents, burns from hot tools, or\nallergic reactions to products are common claim scenarios.\nProper premises liability and\nworkers\u2019 compensation coverage are essential, with attention to safe workplace practices and\nclient consent forms.\nIndustry-Specific Restrictions\nTo maintain underwriting discipline and reduce exposure to\nhigh-severity claims, the following restrictions typically apply:"
 }
