@@ -1,4 +1,4 @@
-{
+il{
   "Application Data": {
     "NAME": "Acme Building Supplies, Inc.",
     "FEIN OR SOC SEC #": "12-3456789",
@@ -7,7 +7,7 @@
     "CONTACT FOR INSPECTION": "John Smith, Safety Manager, Acme Building Supplies, Inc., (555) 123-4567, john.smith@acmebuilding.com",
     "GL CODE": "3212",
     "SIC": "5211",
-    "NATURE OF BUSINESS": "Building Materials & Supplies",
+    "NATURE OF BUSINESS": "Retail",
     "DESCRIPTION OF OPERATIONS": "Acme Building Supplies, Inc. specializes in the distribution of a wide range of building materials and supplies, including lumber, drywall, roofing materials, and concrete products. Our operations include the procurement, storage, and delivery of these materials to contractors and construction sites. We have implemented a robust inventory management system to ensure the secure storage of materials in our indoor facility, equipped with fire prevention measures such as sprinkler systems and fire extinguishers. We prioritize safety through well-documented procedures and regular audits, and our location is in a low-risk area, away from flood plains and wildfire-prone zones. We maintain a surveillance system to mitigate theft and vandalism risks, ensuring a secure environment for our operations.",
     "DATE BUSINESS STARTED": "01/15/2015",
     "EFFECTIVE DATE": "10/01/2023",
