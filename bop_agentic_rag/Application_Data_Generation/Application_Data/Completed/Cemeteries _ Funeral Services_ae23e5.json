@@ -6,7 +6,7 @@
     "MAILING ADDRESS": "1234 Elm St, Suite 5678  \nSpringfield, IL 62701-2345",
     "CONTACT FOR INSPECTION": "John Doe, Director of Operations",
     "GL CODE": "12345",
-    "SIC": "cemeteries and funeral services",
+    "SIC": "7261",
     "NATURE OF BUSINESS": "Cemeteries and Funeral Services",
     "DESCRIPTION OF OPERATIONS": "Sunset Memorial Services provides comprehensive funeral and memorialization services, including traditional burial arrangements, cremation services, and grief support for families. Our operations focus solely on creating meaningful memorial experiences tailored to the unique needs of our clients, with an emphasis on dignity and respect. We also offer associated services such as memorial photography and engraving for personalized tributes. All activities are conducted in compliance with industry regulations and environmental guidelines to ensure a safe and supportive environment for our clients.",
     "DATE BUSINESS STARTED": "01/01/2005",
@@ -20,7 +20,7 @@
     "OTHER BUSINESSES OWNED": "None",
     "PREVIOUS CARRIER": "Acme Insurance Group",
     "POLICY NUMBER": "SM-2022-005678",
-    "TOTAL LOSSES": "$0.00",
+    "TOTAL LOSSES": "$2500.00",
     "DESCRIPTION OF LOSSES": "On 09/15/2022, a claim was filed due to accidental damage to a memorial bench during a storm, resulting in $2,500 in repair costs. The status of the claim is settled, with payment received. No other losses reported in the past three years.",
     "Combined Single Limit": "1000000/5000",
     "Bodily Injury & Prop Damage Occurrrence": "1000000/5000",
@@ -39,9 +39,9 @@
     "money and securities": "$500,000 / $5,000",
     "ADDRESS": "5678 Maple Ave, Springfield, IL 62701",
     "Year Built": "1980",
-    "Square Feet": "Square Feet\": \"15000",
+    "Square Feet": "15000",
     "HOURS OF OPERATION": "8:00 AM - 5:00 PM",
-    "Distance to hydrant": "Distance to hydrant\": \"150 feet",
+    "Distance to hydrant": \"150 feet",
     "OCCUPANCY": "Service",
     "BUILDING IMPROVEMENTS": "2010",
     "BASEMENT PRESENT": "No",
@@ -69,12 +69,12 @@
       "I recently utilized the services of Evergreen Funeral Home, and I couldn't be more grateful for their compassionate care during such a difficult time. The staff was incredibly supportive, guiding us through every step with kindness and understanding, making the process as comforting as possible. The serene environment of the cemetery provided a peaceful place for reflection and honoring our loved one.",
       "The compassionate staff at this funeral service provided exceptional support during a difficult time, ensuring every detail was handled with care and dignity.",
       "I recently attended a memorial service at Serenity Memorial Park, and I was truly impressed by the compassionate and respectful staff. The beautifully landscaped grounds provided a serene environment that was perfect for honoring a loved one. Their attention to detail and sensitivity during such a difficult time made a lasting impression on our family.",
-      "I recently had to make arrangements at [Business Name], and I was truly impressed by the compassionate support provided by their staff. They guided us through every step with immense care, ensuring that we felt comfortable and respected during such a difficult time. The serene environment and beautiful landscaping offered a peaceful place to honor our loved one\u2019s memory, making the experience a bit easier to bear."
+      "I recently had to make arrangements at Sunset Memorial Services, and I was truly impressed by the compassionate support provided by their staff. They guided us through every step with immense care, ensuring that we felt comfortable and respected during such a difficult time. The serene environment and beautiful landscaping offered a peaceful place to honor our loved one\u2019s memory, making the experience a bit easier to bear."
     ],
     "Number of Claims": 1,
-    "Total Losses": 3164
+    "Total Losses": 2500
   },
-  "Final Decision": "REJECT",
-  "Final Reason": "The application is rejected due to the distinct risk associated with the business type, specifically in relation to the number of claims and total losses reported, which indicate a higher risk profile than acceptable under the underwriting guidelines.",
+  "Final Decision": "Accept",
+  "Final Reason": "The business does not have any operations that would cause the policy not to be accepted.",
   "Underwriting Guidelines": "and waste disposal.\nIndustry-Specific Restrictions\nTo maintain underwriting integrity and avoid coverage ambi-\nguities, the following restrictions apply:\n\u2022 Covered Services Limitation: Coverage under the BOP is limited strictly to services\ndirectly related to memorialization, funeral arrangements, and associated photographic or\nengraving services. Ancillary businesses not directly tied to funeral or cemetery operations\nrequire separate underwriting consideration.\n\u2022 Prohibition on Bodily Modification Operations: Any operations involving bodily mod-\nification (e.g., tattoo parlors, body piercing) are explicitly excluded due to the distinct risk\nprofiles and regulatory frameworks.\n\u2022 Restriction on Off-Premises Cremation Services: Mobile or off-site cremation services\nare not covered due to increased liability and regulatory complexity.\n\u2022 Environmental Hazard Controls: Facilities must demonstrate compliance with environ-"
 }
