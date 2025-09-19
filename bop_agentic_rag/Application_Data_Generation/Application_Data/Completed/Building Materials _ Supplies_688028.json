@@ -3,10 +3,10 @@
     "NAME": "ABC Building Supplies, Inc.",
     "FEIN OR SOC SEC #": "12-3456789",
     "BUSINESS TYPE": "Corporation",
-    "MAILING ADDRESS": "1234 Business Lane, Suite 200  \nSpringfield, IL 62704-5678",
+    "MAILING ADDRESS": "1234 Business Lane, Suite 200, Springfield, IL 62704-5678",
     "CONTACT FOR INSPECTION": "John Smith",
     "GL CODE": "1531",
-    "SIC": "5231",
+    "SIC": "5211",
     "NATURE OF BUSINESS": "Retail",
     "DESCRIPTION OF OPERATIONS": "ABC Building Supplies, Inc. is a retail business specializing in the supply of high-quality building materials sourced exclusively from approved domestic manufacturers. We provide a comprehensive range of products including lumber, drywall, insulation, plumbing supplies, and electrical components. Our operations emphasize strict inventory management controls, secure indoor storage facilities, and robust fire prevention measures, including fully operational sprinkler systems. We prioritize the safety of our employees and customers by maintaining a well-documented safety program that is rigorously enforced. Our business serves local contractors and homeowners, focusing on renovation and repair projects rather than new construction, thereby minimizing our exposure to higher risk activities. Regular inventory audits and surveillance measures are in place to mitigate risks related to theft and vandalism.",
     "DATE BUSINESS STARTED": "01/15/2010",
@@ -65,14 +65,14 @@
     "Google Review Count": 53,
     "Average Review Rating": 4.1,
     "Sample Reviews": [
-      "I recently had the pleasure of working with [Business Name], and I couldn't be happier with my experience. Their extensive selection of quality building materials, sourced from trusted domestic suppliers, made my project run smoothly and efficiently. The staff was knowledgeable and helpful, ensuring I found exactly what I needed, and their commitment to safety and organization was evident throughout the store. Highly recommend for anyone in need of reliable building supplies!",
+      "I recently had the pleasure of working with ABC Building Supplies, and I couldn't be happier with my experience. Their extensive selection of quality building materials, sourced from trusted domestic suppliers, made my project run smoothly and efficiently. The staff was knowledgeable and helpful, ensuring I found exactly what I needed, and their commitment to safety and organization was evident throughout the store. Highly recommend for anyone in need of reliable building supplies!",
       "I've had a fantastic experience with this building materials supplier! Their extensive inventory and knowledgeable staff made it easy for me to find exactly what I needed for my project. Additionally, their commitment to sourcing materials from reputable domestic manufacturers gives me confidence in the quality and safety of my purchases. Highly recommended!",
       "I had a fantastic experience at this building materials supplier; their knowledgeable staff helped me find exactly what I needed for my home renovation, and their quality products were competitively priced!",
       "I had a fantastic experience at this building materials and supplies store! Their wide selection of high-quality materials made my project a breeze, and the staff was incredibly knowledgeable and helpful, guiding me to the right products for my needs. I truly appreciate their commitment to sourcing from reputable domestic manufacturers, which gives me peace of mind knowing I'm using reliable materials.",
       "I recently purchased materials from ABC Building Supplies for my home renovation project, and I couldn't be happier with my experience! The staff was incredibly knowledgeable and helpful, guiding me to the right products for my needs. Their wide selection of high-quality materials, sourced from reputable domestic manufacturers, made it easy to find everything I was looking for, all while ensuring compliance with safety standards. Highly recommend!"
     ],
-    "Number of Claims": 2,
-    "Total Losses": 15694
+    "Number of Claims": 1,
+    "Total Losses": 5000
   },
   "Final Decision": "ACCEPT",
   "Final Reason": "The application aligns with the underwriting guidelines, demonstrating strong safety and security measures, appropriate risk management practices, and financial soundness. It does not present any unacceptable characteristics or restrictions."
