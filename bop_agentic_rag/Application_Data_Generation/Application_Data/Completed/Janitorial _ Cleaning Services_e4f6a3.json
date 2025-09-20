@@ -20,7 +20,7 @@
     "OTHER BUSINESSES OWNED": "N/A",
     "PREVIOUS CARRIER": "Reliable Insurers, LLC",
     "POLICY NUMBER": "CS-JAN-2022-004",
-    "TOTAL LOSSES": "$5,000.00",
+    "TOTAL LOSSES": "$3,500.00",
     "DESCRIPTION OF LOSSES": "On 03/15/2023, a cleaning accident occurred at a client\u2019s office during a routine cleaning service, resulting in water damage to personal property. The claim reported damages amounting to $3,500. The status of this claim is currently open, with ongoing discussions regarding coverage responsibilities.",
     "Combined Single Limit": "1000000 limit/1000 deductible",
     "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $1,000 deductible",
@@ -65,15 +65,15 @@
     "Google Review Count": 70,
     "Average Review Rating": 4.3,
     "Sample Reviews": [
-      "I recently hired XYZ Janitorial Services for a deep clean of our office, and overall, I was satisfied with their work. The team arrived on time and was professional throughout the process, showing attention to detail in cleaning all areas. I appreciated their use of eco-friendly products, which aligns with our company's commitment to sustainability.",
+      "I recently hired CleanSweep Solutions for a deep clean of our office, and overall, I was satisfied with their work. The team arrived on time and was professional throughout the process, showing attention to detail in cleaning all areas. I appreciated their use of eco-friendly products, which aligns with our company's commitment to sustainability.",
       "\"I couldn't be happier with the exceptional service provided by this cleaning team; they transformed my office space into a pristine environment, all while being punctual and professional!\"",
       "\"Absolutely thrilled with the exceptional cleanliness and professionalism of the janitorial services; they truly transformed our workspace into a spotless and welcoming environment!\"",
       "I was thoroughly impressed with the janitorial services provided; the team was punctual, polite, and left my office sparkling clean!",
       "\"I am thoroughly impressed with the exceptional cleaning services provided by this company; their attention to detail and professional staff made my office shine like new!\""
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 1,
+    "Total Losses": 3500
   },
   "Final Decision": "ACCEPT",
-  "Final Reason": "The application aligns with the underwriting guidelines, demonstrating strong operational controls, employee training, and compliance with safety protocols. The business has a good credit score, positive reviews, and no claims history, making it a suitable candidate for coverage."
+  "Final Reason": "The application aligns with the underwriting guidelines, demonstrating strong operational controls, employee training, and compliance with safety protocols. The business has a good credit score, positive reviews, and a minor claims history, making it a suitable candidate for coverage."
 }
