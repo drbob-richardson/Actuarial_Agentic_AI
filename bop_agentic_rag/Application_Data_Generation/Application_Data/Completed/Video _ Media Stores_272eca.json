@@ -6,7 +6,7 @@
     "MAILING ADDRESS": "123 Main Street, Suite 200, Springfield, IL 62701-1234",
     "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator",
     "GL CODE": "12345",
-    "SIC": "512230",
+    "SIC": "5999",
     "NATURE OF BUSINESS": "Service",
     "DESCRIPTION OF OPERATIONS": "CineMedia Plus LLC is a video and media store that specializes in the rental and sale of a diverse range of films, documentaries, and video games. Our business operates both a physical storefront and an online platform, providing customers with access to a curated selection of media products and electronic equipment. We focus on customer service and aim to foster a community of film and media enthusiasts through special events and screenings hosted in-store. Our premises are equipped with a professionally monitored alarm system, including burglar and fire alarm systems, and we maintain strict inventory controls to deter theft. We also conduct regular employee training on safety and loss prevention measures.",
     "DATE BUSINESS STARTED": "01/15/2020",
@@ -71,8 +71,8 @@
       "I recently visited a local video and media store and found their selection to be quite impressive, featuring a variety of classic films, new releases, and hard-to-find titles. The staff was knowledgeable and eager to help, making the experience enjoyable. The store was well-organized with a clean layout, which made browsing easy and efficient.",
       "I recently visited a video and media store that exceeded my expectations! The selection of films and media content was impressive, catering to both classic and contemporary tastes. The staff was incredibly knowledgeable and eager to help, making the shopping experience enjoyable and efficient. I left with all the movies I wanted and more\u2014definitely my new go-to place for all things media!"
     ],
-    "Number of Claims": 1,
-    "Total Losses": 2356
+    "Number of Claims": 2,
+    "Total Losses": 5000
   },
   "Final Decision": "REJECT",
   "Final Reason": "The business does not have Workers Compensation coverage, which is typically necessary for employee-related claims, and they have only been in operation since January 2020, not meeting the preferred guideline of at least three years of continuous operation. Additionally, there are concerns regarding the total losses and the theft incident, which may indicate a higher risk profile than acceptable."
