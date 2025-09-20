@@ -71,8 +71,8 @@ il{
       "I had a fantastic experience at this building materials supplier; their knowledgeable staff helped me find exactly what I needed and their wide selection made my project a breeze!",
       "I recently had a fantastic experience at ABC Building Supplies! The staff was incredibly knowledgeable and helped me find exactly what I needed for my home renovation project. The quality of their materials is top-notch, and I appreciated the wide selection they offered. Highly recommend for anyone looking for reliable building supplies!"
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 2,
+    "Total Losses": 5000
   },
   "Final Decision": "REJECT",
   "Final Reason": "The business is rejected due to exposure to flammables (wood and paint thinners), which violates specific underwriting exclusions related to hazardous material handling.",
