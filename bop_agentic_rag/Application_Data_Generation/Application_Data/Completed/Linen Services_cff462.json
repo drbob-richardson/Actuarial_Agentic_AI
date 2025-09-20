@@ -14,7 +14,7 @@
     "EXPIRATION DATE": "09/30/2023",
     "NEW/RENEWAL": "NEW",
     "PAYMENT PLAN": "Annual",
-    "TOTAL PREMIUM": "$\"12500.00",
+    "TOTAL PREMIUM": "12500.00",
     "POLICY #": "CCLS-2023-001234",
     "GENERAL INFO QUESTIONS": "1. **Yes** - Past operations involved the disposal of wastewater and chemical residues, which can be classified as hazardous materials, violating environmental regulations.\\n2. **No** - The business does not sponsor any athletic teams.\\n3. **No** - All subcontractors must provide a certificate of insurance, which is verified by the operations manager.\\n4. **No** - The applicant has not been indicted or convicted of any crimes related to fraud, bribery, arson, or similar offenses.\\n5. **No** - There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years.\\n6. **No** - The business does not lease employees to or from other employers.\\n7. **Yes** - Workers Compensation insurance is carried to cover employee-related injuries.\\n8. **No** - The owner does not operate any other businesses.\\n9. **No** - There are no other insurance policies held with this company.\\n10. **No** - The business is not involved in manufacturing, mixing, relabeling, or repackaging of products.\\n11. **No** - The business does not rent or loan equipment to others.\\n12. **No** - The applicant has not experienced a foreclosure, repossession, bankruptcy, judgment, or lien in the past five years.\\n13. **Yes** - There is exposure to chemicals used in the cleaning processes, which introduces risk factors related to safety and environmental compliance.\\n14. **No** - There is no direct exposure to catastrophic events reported.\\n15. **No** - There have been no past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring.\\n16. **Yes** - The business has uncorrected fire code violations related to fire hazards in equipment operations.",
     "OTHER BUSINESSES OWNED": "N/A",
@@ -66,15 +66,15 @@
     "Average Review Rating": 4.0,
     "Sample Reviews": [
       "I was incredibly impressed with the quality and reliability of their diaper and linen services, making parenting a little easier and stress-free!",
-      "\"I couldn't be happier with the exceptional service provided by this diaper and linen company; their reliable deliveries and high-quality products have made parenting so much easier!\"",
+      "I couldn't be happier with the exceptional service provided by this diaper and linen company; their reliable deliveries and high-quality products have made parenting so much easier!\"",
       "I recently used the diaper and linen service from this company, and I couldn't be happier with my experience! The delivery was always prompt, and the quality of the linens and diapers was top-notch. It's such a relief to have a reliable service that makes life a little easier for busy parents!",
       "The diaper and linen service provided by this company has been a game-changer for our family, offering reliable deliveries and high-quality products that make our lives so much easier!",
       "I couldn't be happier with the exceptional quality and convenience of their diaper and linen services, making parenting just a little bit easier!"
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 2,
+    "Total Losses": 15000
   },
   "Final Decision": "REJECT",
   "Final Reason": "The application is rejected due to uncorrected fire code violations related to fire hazards in equipment operations, which violates underwriting guidelines for safety compliance.",
-  "Underwriting Guidelines": "\u2013 Businesses using unregulated or banned cleaning agents, including solvents not\ncompliant with EPA or local environmental regulations.\n\u2013 Operations with no routine equipment maintenance, increasing the risk of mechan-\nical failure, fire, or employee injury.\n\u2013 Facilities lacking proper ventilation or chemical storage, or those with a history of\nregulatory violations related to environmental discharge or worker safety.\n\u2013 Businesses that improperly dispose of wastewater or chemical residues in viola-\ntion of local environmental laws.\nKey Risk Considerations\nUnderwriters should carefully evaluate the following risk factors,\nwhich are common in diaper and linen service operations:\n\u2022 Fire hazards arising from overheated dryers, malfunctioning boilers, or electrical faults in\nindustrial washing machines. For example, lint accumulation in dryer vents can ignite, causing\nsignificant property damage.\n\u2022 Employee injury risks related to the operation of heavy industrial machines such as washers,"
+  "Underwriting Guidelines": "\u2013 Businesses using unregulated or banned cleaning agents, including solvents not\ncompliant with EPA or local environmental regulations.\n\u2013 Operations with no routine equipment maintenance, increasing the risk of mechan-\nical failure, fire, or employee injury.\n\u2013 Facilities lacking proper ventilation or chemical storage, or those with a history of\nregulatory violations related to environmental discharge or worker safety.\n\u2013 Businesses that improperly dispose of wastewater or chemical residues in viola-\ntion of local environmental laws.\nKey Risk Considerations\nUnderwriters should carefully evaluate the following risk factors,\nwhich are common in diaper and linen service operations:\n\u2022 Fire hazards arising from overheated dryers, malfunctioning boilers, or electrical faults in\nindustrial washing machines. For example, lint accumulation in dryer vents can ignite, causing significant property damage.\n\u2022 Employee injury risks related to the operation of heavy industrial machines such as washers,"
 }
