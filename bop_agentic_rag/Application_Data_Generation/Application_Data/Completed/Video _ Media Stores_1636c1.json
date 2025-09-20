@@ -6,7 +6,7 @@
     "MAILING ADDRESS": "123 Main Street, Suite 100, Springfield, IL 62701-1234",
     "CONTACT FOR INSPECTION": "John Smith",
     "GL CODE": "3115",
-    "SIC": "511199",
+    "SIC": "5999",
     "NATURE OF BUSINESS": "Retail",
     "DESCRIPTION OF OPERATIONS": "Cinema Emporium is a retail store specializing in a diverse selection of video and media products, including films, documentaries, and gaming content. Operating for over 5 years, we pride ourselves on offering a wide range of titles for various genres and age groups, catering to both casual viewers and media enthusiasts. Our store features a modern layout with comfortable viewing areas and knowledgeable staff to assist customers in finding the right content. We also host community events such as movie nights and discussions, aimed at promoting appreciation for film and media. To safeguard our assets and ensure customer safety, we have invested in a state-of-the-art security system, including surveillance cameras, an advanced alarm system, and controlled access to our premises. Our team undergoes regular training in safety protocols and customer service to maintain a welcoming and secure shopping environment.",
     "DATE BUSINESS STARTED": "01/15/2018",
@@ -69,10 +69,10 @@
       "I recently visited this video and media store and found their selection to be quite extensive, covering a wide range of genres and formats. The staff was helpful in assisting me with recommendations and answering my questions. Overall, it's a solid place to find both classic and new titles for movie nights.",
       "The store offers a diverse selection of films and games, making it a convenient spot for media enthusiasts.",
       "I recently visited the local video and media store and found a diverse selection of films and series across various genres. The staff was helpful in recommending titles and the rental process was quick and easy. It's a great spot for anyone looking to discover new movies or revisit old favorites.",
-      "I recently visited Video & Media Haven, and I was thoroughly impressed with their extensive selection of films and games. The staff was incredibly knowledgeable and eager to help me find just what I was looking for. The cozy atmosphere made it a delightful experience, and I can't wait to return for my next movie night!"
+      "I recently visited Cinema Emporium, and I was thoroughly impressed with their extensive selection of films and games. The staff was incredibly knowledgeable and eager to help me find just what I was looking for. The cozy atmosphere made it a delightful experience, and I can't wait to return for my next movie night!"
     ],
-    "Number of Claims": 2,
-    "Total Losses": 15770
+    "Number of Claims": 0,
+    "Total Losses": 0
   },
   "Final Decision": "REJECT",
   "Final Reason": "The application indicates that there are uncorrected fire code violations due to a lack of fire alarms, which violates underwriting guidelines for security systems.",
