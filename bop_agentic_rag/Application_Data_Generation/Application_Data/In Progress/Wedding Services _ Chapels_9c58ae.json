@@ -21,7 +21,7 @@
     "PREVIOUS CARRIER": "Previous Insurers Group",
     "POLICY NUMBER": "EEC-8765432",
     "TOTAL LOSSES": "$5,000.00",
-    "DESCRIPTION OF LOSSES": "Loss Dates: 03/15/2022; Cause: Water damage due to a plumbing issue; Amount: $3,000; Status: Closed. \\n\\nLoss Dates: 11/10/2021; Cause: Vendor cancellation; Amount: $2,000; Status: Closed.",
+    "DESCRIPTION OF LOSSES": "Loss Dates: 03/15/2022; Cause: Water damage due to a plumbing issue; Amount: $3,000; Status: Closed. Loss Dates: 11/10/2021; Cause: Vendor cancellation; Amount: $2,000; Status: Closed.",
     "Combined Single Limit": "1000000/2500",
     "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
     "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
@@ -65,14 +65,14 @@
     "Google Review Count": 58,
     "Average Review Rating": 4.3,
     "Sample Reviews": [
-      "The team at [Business Name] made our wedding day truly magical with their exceptional service and attention to detail!",
-      "I recently had the pleasure of using the services of [Business Name] for my wedding, and I couldn't be happier with the experience! The staff was incredibly attentive and went above and beyond to ensure every detail was perfect, from the beautiful chapel decor to the seamless coordination of the ceremony. I highly recommend them to anyone looking to make their special day unforgettable!",
-      "My experience with [Business Name] for our wedding was absolutely wonderful! The staff was incredibly attentive and made every detail seamless, ensuring our special day was nothing short of perfect. The chapel itself was stunning, creating a beautiful backdrop for our ceremony that our guests are still raving about!",
-      "I recently had the pleasure of working with [Business Name] for my wedding, and I couldn't be happier with my experience! The staff was incredibly attentive and made the entire planning process seamless, ensuring every detail was just perfect. The chapel itself was beautifully decorated and provided a stunning backdrop for our special day. Highly recommend!",
-      "The team at [Business Name] made our wedding day truly magical with their exceptional service and beautiful chapel setting!"
+      "The team at Elegant Events Chapel made our wedding day truly magical with their exceptional service and attention to detail!",
+      "I recently had the pleasure of using the services of Elegant Events Chapel for my wedding, and I couldn't be happier with the experience! The staff was incredibly attentive and went above and beyond to ensure every detail was perfect, from the beautiful chapel decor to the seamless coordination of the ceremony. I highly recommend them to anyone looking to make their special day unforgettable!",
+      "My experience with Elegant Events Chapel for our wedding was absolutely wonderful! The staff was incredibly attentive and made every detail seamless, ensuring our special day was nothing short of perfect. The chapel itself was stunning, creating a beautiful backdrop for our ceremony that our guests are still raving about!",
+      "I recently had the pleasure of working with Elegant Events Chapel for my wedding, and I couldn't be happier with my experience! The staff was incredibly attentive and made the entire planning process seamless, ensuring every detail was just perfect. The chapel itself was beautifully decorated and provided a stunning backdrop for our special day. Highly recommend!",
+      "The team at Elegant Events Chapel made our wedding day truly magical with their exceptional service and beautiful chapel setting!"
     ],
     "Number of Claims": 2,
-    "Total Losses": 13136
+    "Total Losses": 5000
   },
   "Final Decision": "REJECT",
   "Final Reason": "This business is rejected due to violating a specific underwriting exclusion related to previous claims and total losses exceeding acceptable limits.",
