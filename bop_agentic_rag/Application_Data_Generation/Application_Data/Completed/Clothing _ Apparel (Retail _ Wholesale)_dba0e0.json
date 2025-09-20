@@ -8,7 +8,7 @@
     "GL CODE": "Retail-201",
     "SIC": "5651",
     "NATURE OF BUSINESS": "Retail",
-    "DESCRIPTION OF OPERATIONS": "Fashionista Boutique specializes in the retail and wholesale of trendy clothing and accessories for women and children. Our operations include a physical storefront in a bustling area of New York City and a robust online presence. We maintain an inventory valued at approximately $400,000, well within the preferred underwriting guidelines. Our online sales constitute around 60% of our total revenue, allowing us to minimize cyber and fulfillment risks. Additionally, repair or alteration services are not offered; our focus remains solely on providing high-quality apparel without any significant alterations or private-label goods. We prioritize strong inventory management practices, including regular audits and a monitored central alarm system, to mitigate theft and inventory loss risks.",
+    "DESCRIPTION OF OPERATIONS": "Fashionista Boutique specializes in the retail and wholesale of trendy clothing and accessories for women and children. Our operations include a physical storefront in a bustling area of New York City and a robust online presence. We maintain an inventory valued at approximately $400,000, well within the preferred underwriting guidelines. Our online sales constitute around 80% of our total revenue, allowing us to minimize cyber and fulfillment risks. Additionally, repair or alteration services are not offered; our focus remains solely on providing high-quality apparel without any significant alterations or private-label goods. We prioritize strong inventory management practices, including regular audits and a monitored central alarm system, to mitigate theft and inventory loss risks.",
     "DATE BUSINESS STARTED": "01/15/2020",
     "EFFECTIVE DATE": "11/01/2023",
     "EXPIRATION DATE": "11/01/2024",
@@ -72,8 +72,8 @@
       "\"I had a fantastic shopping experience at this apparel store, where the friendly staff helped me find the perfect outfits with a great selection and quality!\""
     ],
     "Number of Claims": 1,
-    "Total Losses": 2383
+    "Total Losses": 5000
   },
   "Final Decision": "REJECT",
-  "Final Reason": "The application violates the guideline regarding inventory value, as Fashionista Boutique has inventory valued at approximately $400,000, which is acceptable; however, their online sales constitute 60% of total revenue, which is below the preferred threshold of less than 75%. Additionally, the business owns another entity (Fashionista Accessories Wholesale), which might complicate risk assessment."
+  "Final Reason": "The application violates the guideline regarding inventory value, as Fashionista Boutique has inventory valued at approximately $400,000, which is acceptable; however, their online sales constitute 80% of total revenue, which is above the preferred threshold of less than 75%. Additionally, the business owns another entity (Fashionista Accessories Wholesale), which might complicate risk assessment."
 }
