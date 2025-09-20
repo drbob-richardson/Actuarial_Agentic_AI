@@ -65,14 +65,14 @@
     "Google Review Count": 17,
     "Average Review Rating": 4.9,
     "Sample Reviews": [
-      "I recently hired Bright & Clean Janitorial Services for a deep clean of my office, and I couldn't be more pleased with the results! Their team was punctual, professional, and incredibly thorough, leaving every corner spotless. I highly recommend their services for anyone looking to maintain a pristine environment!",
+      "I recently hired CleanSweep Services for a deep clean of my office, and I couldn't be more pleased with the results! Their team was punctual, professional, and incredibly thorough, leaving every corner spotless. I highly recommend their services for anyone looking to maintain a pristine environment!",
       "I was thoroughly impressed with the attention to detail and professionalism of the cleaning team, leaving my office spotless and fresh!",
-      "I recently hired [Business Name] for a deep cleaning of my office, and I couldn't be happier with the results! Their team was punctual, professional, and attentive to every detail, leaving my workspace spotless and fresh. I highly recommend their services to anyone looking to elevate the cleanliness of their environment!",
+      "I recently hired CleanSweep Services for a deep cleaning of my office, and I couldn't be happier with the results! Their team was punctual, professional, and attentive to every detail, leaving my workspace spotless and fresh. I highly recommend their services to anyone looking to elevate the cleanliness of their environment!",
       "I am thoroughly impressed with the exceptional cleaning services provided; my office has never looked better!",
       "\"I was thoroughly impressed with the attention to detail and professionalism of the cleaning team; my office has never looked better!\""
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 2,
+    "Total Losses": 8500
   },
   "Final Decision": "REJECT",
   "Final Reason": "The application is rejected due to a violation of a specific underwriting exclusion related to past losses, as there were significant theft and vehicle damage claims reported.",
