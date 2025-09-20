@@ -6,12 +6,12 @@
     "MAILING ADDRESS": "123 Fashion Ave, Suite 200  \nLos Angeles, CA 90015-1234",
     "CONTACT FOR INSPECTION": "Jessica Smith, Store Manager",
     "GL CODE": "Retail Apparel 1871",
-    "SIC": "clothing_apparel_retail_wholesale",
+    "SIC": "5651",
     "NATURE OF BUSINESS": "Clothing & Apparel Retail and Wholesale",
     "DESCRIPTION OF OPERATIONS": "At Trendy Threads Boutique, we specialize in providing a diverse range of fashionable clothing and accessories for men, women, and children, catering to both retail and wholesale customers. Our operations include sourcing high-quality apparel from renowned manufacturers and ensuring a seamless shopping experience through our physical storefront and online platform. We prioritize customer satisfaction and strive to stay ahead of fashion trends by frequently updating our inventory. Additionally, our store includes a small in-house alteration section, which constitutes less than 10% of our overall business activities. Security is a mainstay of our operations, as we have implemented a robust central monitored alarm system to protect our inventory valued at over $500,000. We do not engage in the sale of private-label or relabeled goods, ensuring our merchandise remains compliant with industry standards.",
     "DATE BUSINESS STARTED": "01/15/2015",
     "EFFECTIVE DATE": "10/01/2023",
-    "EXPIRATION DATE": "09/30/2023",
+    "EXPIRATION DATE": "09/30/2024",
     "NEW/RENEWAL": "NEW",
     "PAYMENT PLAN": "Monthly",
     "TOTAL PREMIUM": "$\"12000",
@@ -20,7 +20,7 @@
     "OTHER BUSINESSES OWNED": "None",
     "PREVIOUS CARRIER": "ABC Insurance Company",
     "POLICY NUMBER": "TTB-2022-045",
-    "TOTAL LOSSES": "$5,000",
+    "TOTAL LOSSES": "$3,000",
     "DESCRIPTION OF LOSSES": "In the past three years, Trendy Threads Boutique has reported one minor theft loss incident. **Loss Date:** 07/15/2021, **Cause:** Shoplifting incident resulting in missing inventory items, **Amount:** $3,000, **Status:** Closed and fully documented, with loss control measures implemented afterward. No other losses reported.",
     "Combined Single Limit": "1000000/5000",
     "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
@@ -71,10 +71,10 @@
       "I recently visited this clothing store and found a diverse selection of apparel that caters to various styles. The staff was helpful and attentive without being overly pushy, making my shopping experience enjoyable. Overall, it\u2019s a solid place to find trendy pieces or classic staples at reasonable prices.",
       "The selection of clothing is diverse and the staff is helpful in finding the right sizes and styles."
     ],
-    "Number of Claims": 2,
-    "Total Losses": 19910
+    "Number of Claims": 1,
+    "Total Losses": 3000
   },
-  "Final Decision": "REJECT",
-  "Final Reason": "Increased product liability concerns due to the nature of the business and the number of reported claims.",
+  "Final Decision": "Accept",
+  "Final Reason": "Though the business has over $500,000 in inventory, they implement a strong central alarm system. This business does not have a concerning claim history with only one minor theft..",
   "Underwriting Guidelines": "Industry-Specific Restrictions\nTo mitigate underwriting risks specific to clothing and apparel\nbusinesses, the following restrictions apply:\n\u2022 Alarm System Requirement: For inventory valued over $500,000, a central monitored\nalarm system is mandatory. This reduces the likelihood and severity of theft losses and aligns\nwith insurer risk controls.\n\u2022 Repair Operations Limitation: Repair or alteration activities must be incidental, defined\nas less than 10% of total business operations by revenue or time. This restriction prevents\nunderwriting risks associated with specialty trade contractors, which require different coverage\nforms.\n\u2022 Prohibition on Private-Label or Relabeled Goods: Businesses primarily dealing in\nprivate-label or relabeled apparel are excluded due to increased product liability and regula-\ntory compliance risks.\n\u2022 Restriction on Use of Third-Party Fulfillment Centers for Online Sales: If online"
 }
