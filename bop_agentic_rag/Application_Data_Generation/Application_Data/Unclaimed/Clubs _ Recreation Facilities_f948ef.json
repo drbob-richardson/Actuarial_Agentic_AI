@@ -20,7 +20,7 @@
     "OTHER BUSINESSES OWNED": "None",
     "PREVIOUS CARRIER": "Safe Harbor Insurance Company",
     "POLICY NUMBER": "SB987654321",
-    "TOTAL LOSSES": "$0",
+    "TOTAL LOSSES": "$8500",
     "DESCRIPTION OF LOSSES": "Loss Date: 03/15/2021, Cause: Slip and fall accident due to wet floor near bowling lanes, Amount: $5,000, Status: Closed - Claim paid in full. Loss Date: 06/10/2022, Cause: Minor injury from bowling ball impact, Amount: $2,000, Status: Closed - Claim paid in full. Loss Date: 08/05/2023, Cause: Equipment malfunction leading to a minor injury, Amount: $1,500, Status: Closed - Claim paid in full.",
     "Combined Single Limit": "1000000/5000",
     "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
@@ -37,7 +37,7 @@
     "accounts recievable": "$100,000 / $1,000",
     "employee dishonesty": "$100,000 / $5,000",
     "money and securities": "$250,000 / $5,000",
-    "ADDRESS": "ADDRESS\": \"456 Oak Avenue, Sunnyvale, CA 94087-5678",
+    "ADDRESS": "456 Oak Avenue, Sunnyvale, CA 94087-5678",
     "Year Built": "1985",
     "Square Feet": "Square Feet\": \"15000",
     "HOURS OF OPERATION": "08:00 AM - 11:00 PM",
@@ -71,10 +71,10 @@
       "I had an amazing experience at this club, with friendly staff, excellent facilities, and a great atmosphere that kept everyone engaged and having fun!",
       "The vibrant atmosphere and friendly staff at this club make every visit a fun and energizing experience!"
     ],
-    "Number of Claims": 2,
-    "Total Losses": 15842
+    "Number of Claims": 3,
+    "Total Losses": 8500
   },
   "Final Decision": "REJECT",
-  "Final Reason": "The application has a high number of total losses ($15,842) with multiple claims, which exceeds the acceptable limits for underwriting this business type, leading to an initial decision to reject.",
+  "Final Reason": "The application has a high number of total losses ($8,500) with multiple claims, which exceeds the acceptable limits for underwriting this business type, leading to an initial decision to reject.",
   "Underwriting Guidelines": "\u2013 Clubs with robust financial statements demonstrating stable cash flow and reserves,\nindicating ability to maintain property and safety standards.\n\u2013 Facilities with comprehensive security measures, including controlled access, surveillance\nsystems, and trained staff to manage patron safety.\n\u2013 Operations without on-site alcohol or food service, thereby reducing liquor liability and\nfoodborne illness exposures.\n\u2022 Acceptable:\n\u2013 Facilities offering moderate-risk activities such as golf courses, swimming pools, tennis\ncourts, and bowling alleys.\n\u2013 Clubs providing food and/or alcohol service, provided strict controls are in place, includ-\ning trained servers, adherence to local liquor laws, and effective incident reporting.\n\u2013 Facilities with documented maintenance programs and employee training protocols.\n\u2022 Not Acceptable:\n96"
 }
