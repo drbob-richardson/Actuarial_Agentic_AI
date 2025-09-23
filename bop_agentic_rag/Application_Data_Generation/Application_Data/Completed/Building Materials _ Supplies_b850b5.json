@@ -74,7 +74,7 @@ il{
     "Number of Claims": 2,
     "Total Losses": 5000
   },
-  "Final Decision": "REJECT",
-  "Final Reason": "The business is rejected due to exposure to flammables (wood and paint thinners), which violates specific underwriting exclusions related to hazardous material handling.",
+  "Final Decision": "ACCEPT",
+  "Final Reason": "There are no underwriting exclusions for having wood or paint thinner. The business does not have any operations requiring the application to be rejected.",
   "Underwriting Guidelines": "3.33\nBuilding Materials & Supplies\nUnderwriting Appetite\n\u2022 Preferred:\n\u2013 Small to medium-sized businesses located in low-risk geographic zones (e.g., outside flood\nplains, wildfire-prone areas, or seismic zones) with well-documented and actively enforced\nsafety and security programs.\n\u2013 Businesses demonstrating robust inventory management controls, including secure stor-\nage facilities (preferably indoor or well-fenced outdoor areas) and fire prevention mea-\nsures such as sprinkler systems or fire extinguishers.\n\u2013 Operations with limited or no hazardous materials and minimal exposure to theft or\nvandalism risks.\n\u2022 Acceptable:\n\u2013 New or growing businesses with evidence of sound operational controls, stable or im-\nproving cash flow, and proactive risk management policies.\n\u2013 Businesses with some outdoor storage but employing mitigating controls such as surveil-\nlance cameras, fencing, and regular inventory audits."
 }
