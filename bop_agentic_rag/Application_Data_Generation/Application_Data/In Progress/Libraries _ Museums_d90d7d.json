@@ -6,8 +6,8 @@
     "MAILING ADDRESS": "123 Main St, Suite 200, Springfield, IL 62701-1234",
     "CONTACT FOR INSPECTION": "John Smith, Head of Collections, (555) 123-4567, john.smith@grandhistorical.org",
     "GL CODE": "1234",
-    "SIC": "5812",
-    "NATURE OF BUSINESS": "Libraries & Museums",
+    "SIC": "8231",
+    "NATURE OF BUSINESS": "OTHER",
     "DESCRIPTION OF OPERATIONS": "The Grand Historical Library is a community-oriented institution dedicated to preserving, exhibiting, and providing access to a diverse range of historical artifacts, rare books, and fine art collections. We actively engage in educational programs, workshops, and public events to promote literacy and cultural awareness. Our facility includes exhibition spaces, reading rooms, and event venues, where we host lectures, book signings, and community gatherings. All fine art and valuable collections are professionally appraised every three years to ensure proper valuation and insurability. We maintain rigorous safety and security protocols to protect our collections, and we do not permit the use of drones on our premises. Alcohol service will be limited to select events with appropriate licensed vendors and security measures in place.",
     "DATE BUSINESS STARTED": "01/15/2005",
     "EFFECTIVE DATE": "10/01/2023",
@@ -42,7 +42,7 @@
     "Square Feet": "Square Feet\": \"25000",
     "HOURS OF OPERATION": "09:00 AM - 08:00 PM",
     "Distance to hydrant": "Distance to hydrant\": \"300 feet",
-    "OCCUPANCY": "Public Library and Museum",
+    "OCCUPANCY": "Service",
     "BUILDING IMPROVEMENTS": "2015",
     "BASEMENT PRESENT": "Yes",
     "SPRINKLER PERCENTAGE": "80%",
@@ -72,7 +72,7 @@
       "The library has a diverse collection of books and resources, making it a great place for research and community events."
     ],
     "Number of Claims": 2,
-    "Total Losses": 9792
+    "Total Losses": 15000
   },
   "Final Decision": "REJECT",
   "Final Reason": "The application is rejected due to a violation of underwriting guidelines related to the number of claims and total losses, which exceed acceptable thresholds for this business type.",
