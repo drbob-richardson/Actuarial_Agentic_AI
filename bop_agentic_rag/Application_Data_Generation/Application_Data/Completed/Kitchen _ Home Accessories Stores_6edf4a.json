@@ -6,9 +6,9 @@
     "MAILING ADDRESS": "1234 Culinary Way, Suite 100, Kitchen City, CA 90210-1234",
     "CONTACT FOR INSPECTION": "John Doe, Operations Manager",
     "GL CODE": "5645",
-    "SIC": "442299",
+    "SIC": "5722",
     "NATURE OF BUSINESS": "Retail",
-    "DESCRIPTION OF OPERATIONS": "Kitchen Smart Co. specializes in the retail sale of kitchen and home accessories, including cookware, bakeware, small appliances, and home d\u00e9cor items. Our operations include showcasing a wide range of quality products in our store, while our dedicated staff provides personalized customer service to assist shoppers in finding the right items for their needs. We do not offer installation or repair services, ensuring that we minimize liability associated with subcontracting work. With a focus on maintaining a safe shopping environment, we implement stringent safety protocols and conduct regular training for our employees to reduce the risk of accidents. Our inventory is valued under $500,000, and we employ security measures to safeguard against theft and vandalism, supporting our commitment to operational excellence and customer satisfaction.",
+    "DESCRIPTION OF OPERATIONS": "Kitchen Smart Co. specializes in the retail sale of kitchen and home accessories, including cookware, bakeware, small appliances, and home decor items. Our operations include showcasing a wide range of quality products in our store, while our dedicated staff provides personalized customer service to assist shoppers in finding the right items for their needs. We do not offer installation or repair services, ensuring that we minimize liability associated with subcontracting work. With a focus on maintaining a safe shopping environment, we implement stringent safety protocols and conduct regular training for our employees to reduce the risk of accidents. Our inventory is valued under $500,000, and we employ security measures to safeguard against theft and vandalism, supporting our commitment to operational excellence and customer satisfaction.",
     "DATE BUSINESS STARTED": "01/15/2020",
     "EFFECTIVE DATE": "10/01/2023",
     "EXPIRATION DATE": "10/01/2024",
@@ -20,7 +20,7 @@
     "OTHER BUSINESSES OWNED": "N/A",
     "PREVIOUS CARRIER": "ABC Insurance Company",
     "POLICY NUMBER": "KS987654321",
-    "TOTAL LOSSES": "$5,000.00",
+    "TOTAL LOSSES": "$2,500.00",
     "DESCRIPTION OF LOSSES": "On 03/15/2023, a minor water leak occurred in the store due to a malfunctioning display sink, causing damage to flooring and inventory valued at $2,500. The claim was filed on 03/20/2023 and is currently in the final review stage with a status of pending resolution.",
     "Combined Single Limit": "1000000/1000",
     "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
@@ -71,8 +71,8 @@
       "\"I had a wonderful experience shopping at this kitchen and home accessories store; their unique selection and helpful staff made it easy to find the perfect items for my home!\"",
       "The selection of kitchen and home accessories was impressive, with a variety of practical items to enhance any space."
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 1,
+    "Total Losses": 2500
   },
   "Final Decision": "ACCEPT",
   "Final Reason": "The application meets all underwriting guidelines with no unacceptable characteristics or missing coverage. The business has a good credit score, positive reviews, and does not engage in restricted activities."
