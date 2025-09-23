@@ -6,7 +6,7 @@
     "MAILING ADDRESS": "123 Culinary Lane, Suite 200  \\nSpringfield, IL 62704-5678",
     "CONTACT FOR INSPECTION": "John Smith",
     "GL CODE": "234567",
-    "SIC": "5731",
+    "SIC": "3631",
     "NATURE OF BUSINESS": "Retail",
     "DESCRIPTION OF OPERATIONS": "Gourmet Kitchen Essentials Inc. specializes in providing high-quality kitchen and home accessories, including cookware, small appliances, and eco-friendly kitchen tools. Our product range is carefully selected to ensure safety and functionality, catering to both home cooks and professional chefs. We prioritize customer satisfaction through exceptional service and knowledgeable staff. In addition to retail sales, we offer cooking classes and demonstrations to engage with our community. Our online store facilitates a seamless shopping experience, while robust cybersecurity measures are in place to protect customer data. We are committed to loss prevention and have implemented comprehensive safety protocols to mitigate risks associated with our operations.",
     "DATE BUSINESS STARTED": "01/15/2018",
@@ -69,10 +69,10 @@
       "I absolutely love this kitchen and home accessories store; their unique selection of high-quality items has transformed my cooking experience and made my home feel so much more inviting!",
       "I recently visited this kitchen and home accessories store and found their selection to be impressive, with a variety of unique items that cater to different styles and needs. The staff was knowledgeable and helpful, making my shopping experience pleasant. Overall, it's a great place to find quality products for your home.",
       "I recently visited this kitchen and home accessories store, and I was thoroughly impressed by their wide selection of high-quality products. The staff was incredibly knowledgeable and friendly, helping me find exactly what I needed for my kitchen makeover. I can't wait to return and explore more of their unique and stylish home decor items!",
-      "I recently visited the Kitchen & Home Accessories Store, and I was thoroughly impressed by the wide selection of high-quality kitchenware and decorative items. The staff were incredibly knowledgeable and friendly, helping me find exactly what I needed for my new home. I left feeling inspired to try new recipes and spruce up my kitchen decor!"
+      "I recently visited Gourmet Kitchen Essentials, and I was thoroughly impressed by the wide selection of high-quality kitchenware and decorative items. The staff were incredibly knowledgeable and friendly, helping me find exactly what I needed for my new home. I left feeling inspired to try new recipes and spruce up my kitchen decor!"
     ],
-    "Number of Claims": 1,
-    "Total Losses": 6591
+    "Number of Claims": 2,
+    "Total Losses": 3200
   },
   "Final Decision": "REJECT",
   "Final Reason": "The application is rejected due to a violation of underwriting exclusions related to prior claims, as there is an ongoing claim currently under review for a slip and fall incident, which may indicate a higher risk profile.",
