@@ -12,7 +12,7 @@
     "DATE BUSINESS STARTED": "01/15/2020",
     "EFFECTIVE DATE": "10/01/2023",
     "EXPIRATION DATE": "10/01/2024",
-    "NEW/RENEWAL": "NEW/RENEWAL: \"NEW",
+    "NEW/RENEWAL": "NEW",
     "PAYMENT PLAN": "Monthly",
     "TOTAL PREMIUM": "$\"8500.00",
     "POLICY #": "GVPM-2023-001",
@@ -67,14 +67,14 @@
     "Sample Reviews": [
       "The market offers a diverse selection of fresh fruits and vegetables at competitive prices, making it a convenient stop for healthy grocery shopping.",
       "I absolutely love shopping at this local fruit and vegetable market! The selection is always fresh and vibrant, with a wide variety of seasonal produce that truly enhances my meals. The staff is friendly and knowledgeable, always ready to help me pick out the ripest fruits and veggies.",
-      "I recently visited Fresh Harvest Market and was thoroughly impressed by the vibrant selection of fruits and vegetables available. The produce was incredibly fresh and bursting with flavor, and the staff were friendly and knowledgeable, always ready to offer recommendations. I will definitely be returning for my weekly grocery needs!",
+      "I recently visited Green Valley Produce Market and was thoroughly impressed by the vibrant selection of fruits and vegetables available. The produce was incredibly fresh and bursting with flavor, and the staff were friendly and knowledgeable, always ready to offer recommendations. I will definitely be returning for my weekly grocery needs!",
       "I recently visited the local fruit and vegetable market and was pleased with the variety of fresh produce available. The pricing was reasonable, and the staff was friendly and knowledgeable about their products. Overall, it's a great spot to find seasonal fruits and vegetables for cooking or snacking.",
-      "I recently visited Green Valley Fruit & Vegetable Market and was thoroughly impressed by the freshness and variety of their produce. The vibrant colors and delightful aromas made it a joy to shop, and the staff were incredibly friendly and knowledgeable, helping me pick out the ripest fruits and crispest vegetables. I can't wait to return for more seasonal favorites!"
+      "I recently visited Green Valley Produce Market and was thoroughly impressed by the freshness and variety of their produce. The vibrant colors and delightful aromas made it a joy to shop, and the staff were incredibly friendly and knowledgeable, helping me pick out the ripest fruits and crispest vegetables. I can't wait to return for more seasonal favorites!"
     ],
     "Number of Claims": 2,
-    "Total Losses": 17728
+    "Total Losses": 12000
   },
   "Final Decision": "REJECT",
-  "Final Reason": "The application is rejected due to a violation of specific underwriting exclusions related to the past claim history and total losses exceeding acceptable limits.",
+  "Final Reason": "The application is rejected due to a violation of specific underwriting exclusions related to the past claim history and total losses exceeding acceptable limits, specifically related to food spoilage and contamination.",
   "Underwriting Guidelines": "sophisticated financial crimes.\n\u2022 Restriction on Sourcing from Unverified International Suppliers: To mitigate risks\nof contamination and regulatory non-compliance, coverage is restricted for produce sourced\nfrom international suppliers lacking third-party food safety certifications (e.g., GlobalG.A.P.,\nSQF). This restriction reduces exposure to imported produce with higher risk profiles due to\nvariable quality controls and traceability challenges.\nPreferred Optional Coverages\n\u2022 Equipment Breakdown: Covers losses resulting from mechanical or electrical breakdown\nof refrigeration units, HVAC systems, and other critical equipment essential to preserving\nperishable inventory.\n\u2022 Product Liability: Provides protection against claims arising from bodily injury or property\ndamage caused by defective or contaminated produce sold by the market.\n\u2022 Umbrella Insurance: Offers additional liability limits above the primary policy, useful for"
 }
