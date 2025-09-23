@@ -68,12 +68,12 @@
       "I recently visited this fruit and vegetable market and was thrilled by the freshness and quality of their produce; the vibrant selection made my shopping experience a delight!",
       "I recently visited the local fruit and vegetable market, and I was thoroughly impressed with the freshness and quality of their produce! The vibrant colors and variety of fruits and vegetables were amazing, and the staff was incredibly friendly and knowledgeable, offering helpful tips on selecting the best items. I appreciated the care they take in sourcing their products, making it a delightful shopping experience every time!",
       "\"I love shopping at this fruit and vegetable market; the produce is always fresh, vibrant, and reasonably priced, making it my go-to place for healthy ingredients!\"",
-      "I recently visited Green Grove Market, and I was thoroughly impressed by the quality of the fresh produce available. The fruits and vegetables were vibrant, perfectly ripe, and sourced locally, which really enhances the flavors. The staff was friendly and knowledgeable, always ready to offer recommendations or tips on how to store and prepare the products. It's a delightful spot for anyone who values fresh, healthy food!",
+      "I recently visited Green Leaf Produce, and I was thoroughly impressed by the quality of the fresh produce available. The fruits and vegetables were vibrant, perfectly ripe, and sourced locally, which really enhances the flavors. The staff was friendly and knowledgeable, always ready to offer recommendations or tips on how to store and prepare the products. It's a delightful spot for anyone who values fresh, healthy food!",
       "\"I love shopping at this fruit and vegetable market\u2014their selection is always fresh and vibrant, and the staff is incredibly friendly and knowledgeable!\""
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 2,
+    "Total Losses": 15000
   },
-  "Final Decision": "ACCEPT",
-  "Final Reason": "The application aligns with underwriting guidelines, demonstrates financial soundness, has no significant claims history, and implements robust risk management practices."
+  "Final Decision": "REJECT",
+  "Final Reason": "The application highlights recent losses due to food spoilage, as well as recent losses due to theft, which violates the requirements to be accepted."
 }
