@@ -6,7 +6,7 @@
     "MAILING ADDRESS": "1234 Sunset Blvd, Suite 100  \nLos Angeles, CA 90026-1234",
     "CONTACT FOR INSPECTION": "John Smith",
     "GL CODE": "56159",
-    "SIC": "7999",
+    "SIC": "7997",
     "NATURE OF BUSINESS": "FILL IN OTHER",
     "DESCRIPTION OF OPERATIONS": "Sunset Recreational Club offers a variety of low to moderate-risk recreational activities, including fitness classes such as yoga and Pilates, swimming pool use, and community events. The facility prioritizes safety with trained staff, regular equipment maintenance, and implemented safety protocols. We provide services in a controlled access environment, ensuring patron security. There is no on-site alcohol or food service, minimizing liquor liability exposures. Our commitment to a safe and enjoyable experience for all members and guests is fundamental to our operations.",
     "DATE BUSINESS STARTED": "01/15/2015",
@@ -20,7 +20,7 @@
     "OTHER BUSINESSES OWNED": "Sunset Community Sports Club",
     "PREVIOUS CARRIER": "Acme Insurance Company",
     "POLICY NUMBER": "SRC-2022-045",
-    "TOTAL LOSSES": "$3,564.00",
+    "TOTAL LOSSES": "$10,000.00",
     "DESCRIPTION OF LOSSES": "On 03/15/2022, a non-member slipped on a wet pool deck due to a maintenance delay, resulting in a shoulder injury. The claim was settled for $5,000. The status is closed. On 07/20/2021, during a yoga class, a participant suffered a sprained ankle from improper footwear. The claim was settled for $3,000. The status is closed. On 01/10/2020, a member reported minor injuries from a faulty exercise machine (covered under equipment maintenance). The claim was settled for $2,000. The status is closed.",
     "Combined Single Limit": "1000000/5000",
     "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
@@ -71,9 +71,9 @@
       "\"I had a fantastic experience at this recreation facility, where the friendly staff and well-maintained equipment made my fitness journey enjoyable and stress-free!\"",
       "The club offers a well-maintained environment and a variety of low-risk activities that cater to different interests, making it a pleasant space for community engagement and recreational activities."
     ],
-    "Number of Claims": 1,
-    "Total Losses": 3564
+    "Number of Claims": 3,
+    "Total Losses": 10000
   },
-  "Final Decision": "ACCEPT",
+  "Final Decision": "REJECT",
   "Final Reason": "The application aligns with underwriting guidelines, demonstrating low-risk operations, robust safety protocols, adequate insurance coverage, and a stable financial history."
 }
