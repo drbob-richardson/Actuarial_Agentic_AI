@@ -22,7 +22,7 @@
     "POLICY NUMBER": "SHM-2022-123456",
     "TOTAL LOSSES": "$25,000.00",
     "DESCRIPTION OF LOSSES": "On 03/15/2023, a theft incident occurred resulting in a loss of $10,000. The stolen items included several uninstalled tombstones and installation equipment. The claim is currently under review with the insurance company and is marked as pending. Additionally, on 06/20/2023, property damage from vandalism was reported, causing $15,000 in repairs needed for damaged monuments at a local cemetery. This claim has been settled. Overall, there have been no formal safety protocols in place during these incidents, contributing to the vulnerabilities in our operations.",
-    "Combined Single Limit": "Combined Single Limit\": \"1000000/2500",
+    "Combined Single Limit": "1000000/2500",
     "Bodily Injury & Prop Damage Occurrrence": "1000000/2500",
     "Bodily Injury & Prop Damage Aggregate": "500000/5000",
     "Medical Expense (per person)": "$5,000 / $1,000",
@@ -39,7 +39,7 @@
     "money and securities": "$250,000 / $5,000",
     "ADDRESS": "4567 Heritage Avenue, Springfield, IL 62702-5678",
     "Year Built": "1975",
-    "Square Feet": "Square Feet\": \"2500",
+    "Square Feet": "2500",
     "HOURS OF OPERATION": "08:00 AM - 05:00 PM",
     "Distance to hydrant": "150 feet",
     "OCCUPANCY": "Retail",
@@ -71,8 +71,8 @@
       "I recently visited this monument and tombstone sales business, and I was impressed by the variety of options available. The staff was knowledgeable and helpful, guiding me through the selection process with patience and understanding. Overall, the experience was respectful and informative, making a difficult decision a bit easier.",
       "I was thoroughly impressed with the beautiful selections and compassionate service at the monument shop, making a difficult decision much easier."
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 2,
+    "Total Losses": 25000
   },
   "Final Decision": "REJECT",
   "Final Reason": "The application is rejected due to a specific underwriting exclusion related to past losses and claims, particularly the pending theft claim and the recent vandalism claim, which indicate vulnerabilities in operations.",
