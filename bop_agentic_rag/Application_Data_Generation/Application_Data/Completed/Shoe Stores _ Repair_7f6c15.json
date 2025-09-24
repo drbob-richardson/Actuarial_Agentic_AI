@@ -6,12 +6,12 @@
     "MAILING ADDRESS": "1234 Elm Street, Springfield, IL 62704-1234",
     "CONTACT FOR INSPECTION": "John Doe",
     "GL CODE": "Retail Shoe Store 1234",
-    "SIC": "448210",
+    "SIC": "5661",
     "NATURE OF BUSINESS": "Retail",
     "DESCRIPTION OF OPERATIONS": "Sunny Steps Shoe Store specializes in the retail sale of a wide variety of footwear, including casual shoes, athletic shoes, formal footwear, and children's shoes. We also offer on-site shoe repair services, focusing on minor repairs such as sole replacements, stitching, and polishing, all conducted in a well-maintained storefront located at 1234 Elm Street, Springfield, IL. Our shop adheres to local safety codes, and we prioritize maintaining a clean and safe environment for both customers and employees.",
     "DATE BUSINESS STARTED": "01/15/2015",
     "EFFECTIVE DATE": "10/01/2023",
-    "EXPIRATION DATE": "09/30/2023",
+    "EXPIRATION DATE": "09/30/2024",
     "NEW/RENEWAL": "RNWL",
     "PAYMENT PLAN": "Monthly",
     "TOTAL PREMIUM": "$\"2500.00",
@@ -66,13 +66,13 @@
     "Average Review Rating": 4.7,
     "Sample Reviews": [
       "I had a fantastic experience at this shoe store, where the staff was incredibly helpful in finding the perfect pair of shoes and even offered excellent repair services for my favorite pair!",
-      "I recently visited ABC Shoe Store & Repair, and I couldn't be happier with my experience! The staff was incredibly knowledgeable and helped me find the perfect pair of shoes that fit my style and comfort needs. Plus, their shoe repair service worked wonders on my favorite boots, making them look brand new again. Highly recommend this place for all your footwear needs!",
+      "I recently visited Sunny Steps Shoe Store, and I couldn't be happier with my experience! The staff was incredibly knowledgeable and helped me find the perfect pair of shoes that fit my style and comfort needs. Plus, their shoe repair service worked wonders on my favorite boots, making them look brand new again. Highly recommend this place for all your footwear needs!",
       "I recently visited the local shoe store for a pair of sneakers and was impressed by their wide selection and knowledgeable staff. They took the time to help me find the perfect fit and offered valuable recommendations based on my needs. I also appreciated the on-site repair service, which is a convenient option for maintaining my favorite shoes.",
       "The selection of shoes at this store is impressive, and the staff is knowledgeable and helpful in finding the right fit.",
       "I had a fantastic experience at this shoe store, where the staff was incredibly knowledgeable and helped me find the perfect pair of shoes that fit my style and comfort needs!"
     ],
     "Number of Claims": 2,
-    "Total Losses": 8146
+    "Total Losses": 1500
   },
   "Final Decision": "REJECT",
   "Final Reason": "The business engages in equipment rental or leasing, which is against the underwriting guidelines.",
