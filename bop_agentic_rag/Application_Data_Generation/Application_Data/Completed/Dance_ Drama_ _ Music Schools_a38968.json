@@ -6,12 +6,12 @@
     "MAILING ADDRESS": "123 Main Street, Suite 101, Springfield, IL 62701-1234",
     "CONTACT FOR INSPECTION": "Sarah Johnson, Director of Safety and Compliance",
     "GL CODE": "611610",
-    "SIC": "611610",
-    "NATURE OF BUSINESS": "Dance, Drama, & Music School",
+    "SIC": "7911",
+    "NATURE OF BUSINESS": "OTHER",
     "DESCRIPTION OF OPERATIONS": "Harmony Arts Academy offers a diverse range of dance, drama, and music classes for students of all ages, including ballet, jazz, contemporary dance, acting, and instrumental music. Our facility is equipped with state-of-the-art studios, practice rooms, and performance spaces designed to enhance the learning experience. We prioritize a safe and supportive environment, implementing strict supervision protocols, conducting thorough background checks on all instructors, and ensuring compliance with local safety regulations. We also provide regular training for our staff on safety procedures and risk management to minimize the potential for injuries during classes and performances. Our commitment to the well-being of our students is reflected in our proactive approach to safety and our dedication to fostering a positive artistic community.",
     "DATE BUSINESS STARTED": "01/15/2018",
     "EFFECTIVE DATE": "11/01/2023",
-    "EXPIRATION DATE": "10/31/2023",
+    "EXPIRATION DATE": "10/31/2024",
     "NEW/RENEWAL": "RNWL",
     "PAYMENT PLAN": "Quarterly",
     "TOTAL PREMIUM": "$7500.00",
@@ -20,7 +20,7 @@
     "OTHER BUSINESSES OWNED": "None",
     "PREVIOUS CARRIER": "SafeGuard Insurance Company",
     "POLICY NUMBER": "HA-2022-005",
-    "TOTAL LOSSES": "$0.00",
+    "TOTAL LOSSES": "$5000.00",
     "DESCRIPTION OF LOSSES": "On 06/15/2021, a student slipped and fell during a ballet class due to an unmarked wet floor, resulting in a fractured wrist. The incident was reported immediately, and the student received medical treatment costing $5,000. The claim is currently in process, pending review by the insurance adjuster. Additionally, on 09/28/2022, a parent raised concerns about potential safety violations regarding supervision policies during a music recital. No claims were filed, but the issue remains unresolved, prompting additional scrutiny of safety protocols within the academy.",
     "Combined Single Limit": "1000000/1000 deductible",
     "Bodily Injury & Prop Damage Occurrrence": "1000000/1000 deductible",
@@ -71,10 +71,10 @@
       "I had an amazing experience at Harmony Arts Academy! The instructors are incredibly talented and passionate, creating a welcoming atmosphere that encourages creativity and growth. My child has flourished in their dance classes, and we can't wait to see what the upcoming performances will bring!",
       "I've had an incredible experience at this dance, drama, and music school, where the talented instructors truly inspire creativity and passion in every student!"
     ],
-    "Number of Claims": 2,
-    "Total Losses": 17962
+    "Number of Claims": 1,
+    "Total Losses": 5000
   },
   "Final Decision": "REJECT",
-  "Final Reason": "The business has uncorrected fire code violations, which raises significant liability concerns, violating underwriting guidelines.",
+  "Final Reason": "The business has uncorrected fire code violations, which raises significant liability concerns, violating underwriting guidelines. There are also concerns about poor supervision.",
   "Underwriting Guidelines": "\u2013 Entities with a poor safety record, including multiple prior claims related to bodily injury\nor property damage, or known violations of local safety codes.\n\u2013 Schools lacking formal supervision policies or failing to conduct background checks on\npersonnel working with minors.\nKey Risk Considerations\nUnderwriters should evaluate the following exposures carefully, as\nthey represent the most frequent and severe claim drivers in this class:\n\u2022 Bodily Injury Liability: Common claims arise from student slips, trips, and falls during\nclasses or rehearsals, as well as injuries related to the use of equipment such as ballet barres,\nmusical instruments, or stage props. For example, a dancer slipping on a wet floor or a student\ntripping over unsecured cables during a music lesson.\n\u2022 Abuse and Molestation Exposure: Particularly relevant for programs involving minors.\nInsurers must assess the adequacy of background screening, supervision policies, and staff"
 }
