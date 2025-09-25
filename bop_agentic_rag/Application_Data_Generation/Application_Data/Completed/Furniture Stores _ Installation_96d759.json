@@ -20,8 +20,8 @@
     "OTHER BUSINESSES OWNED": "N/A",
     "PREVIOUS CARRIER": "Smith & Associates Insurance Company",
     "POLICY NUMBER": "POLICY NUMBER: \"POLICY123456789",
-    "TOTAL LOSSES": "$25,000.00",
-    "DESCRIPTION OF LOSSES": "On March 15, 2023, a delivery incident resulted in damage to a customer's property and merchandise, leading to a claim of $10,000, currently under review. On August 22, 2023, during installation, an installer accidentally scratched a wall in the customer's home, valued at $5,000, which has been settled. In total, losses amounted to $25,000.",
+    "TOTAL LOSSES": "$15,000.00",
+    "DESCRIPTION OF LOSSES": "On March 15, 2023, a delivery incident resulted in damage to a customer's property and merchandise, leading to a claim of $10,000, currently under review. On August 22, 2023, during installation, an installer accidentally scratched a wall in the customer's home, valued at $5,000, which has been settled. In total, losses amounted to $15,000.",
     "Combined Single Limit": "1000000/5000",
     "Bodily Injury & Prop Damage Occurrrence": "1000000/5000",
     "Bodily Injury & Prop Damage Aggregate": "1000000/5000",
@@ -71,10 +71,10 @@
       "I recently purchased a beautiful dining table set from this furniture store, and I couldn't be happier with my experience! The staff was incredibly knowledgeable and helped me find the perfect style that fits my home. The delivery and installation were seamless, making the whole process a breeze. Highly recommend!",
       "I had a fantastic experience at this furniture store, where the staff was incredibly helpful in finding the perfect pieces for my home, making the selection process enjoyable and stress-free!"
     ],
-    "Number of Claims": 1,
-    "Total Losses": 5292
+    "Number of Claims": 2,
+    "Total Losses": 15000
   },
   "Final Decision": "REJECT",
-  "Final Reason": "The business primarily deals in new, handcrafted furniture, but the underwriting guidelines specify rejection for businesses dealing in used, refurbished, or private-label furniture. Additionally, the total losses and claims history suggest an increased risk.",
+  "Final Reason": "The total losses and claims history suggests higher risks due to the severe claim amounts associated with damaged customer property during installation.",
   "Underwriting Guidelines": "\u2013 Inventory values between $500,000 and $1 million, subject to enhanced security measures\nand periodic inventory audits.\n\u2022 Not Acceptable:\n\u2013 Businesses primarily dealing in used, refurbished, or private-label furniture, due to higher\nproduct liability and quality control risks.\n\u2013 Operations with primarily online-only sales exceeding 75% without robust cyber liability\ncoverage and proven fulfillment controls.\n\u2013 Entities exhibiting financial instability, poor credit history, or lacking documented loss\nprevention and safety programs.\n\u2013 Businesses without clear documentation of subcontractor insurance or those relying on\nuninsured subcontractors for delivery or installation.\nKey Risk Considerations\n\u2022 Damage during delivery or installation: Furniture is often bulky, fragile, and expensive.\nRisks include damage to the product itself, damage to customer property (e.g., floors, walls),\nor injury to installers. For example, a claim may arise if an installer accidentally scratches"
 }
