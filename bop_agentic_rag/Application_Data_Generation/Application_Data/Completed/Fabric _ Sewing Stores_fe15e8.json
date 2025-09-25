@@ -6,7 +6,7 @@
     "MAILING ADDRESS": "1234 Fabric Lane, Suite 100  \nSan Francisco, CA 94107-1234",
     "CONTACT FOR INSPECTION": "Jane Doe",
     "GL CODE": "2381",
-    "SIC": "2381",
+    "SIC": "5949",
     "NATURE OF BUSINESS": "Retail",
     "DESCRIPTION OF OPERATIONS": "Fabric Haven Supply Co. is a retail business specializing in the sale of fabrics, sewing supplies, and related materials. Our operations include a well-curated selection of high-quality fabrics, threads, notions, and sewing patterns both in-store and through our e-commerce platform. We do not engage in sewing machine repairs or maintenance services. Our store prioritizes safe handling practices for all materials and regular employee training on compliance with safety protocols. We limit customer classes to small groups led by certified instructors. We have implemented robust fire prevention measures, including storing any required chemicals in approved safety cabinets in compliance with local fire codes. Additionally, we maintain a secure surveillance system to deter theft and protect our inventory.",
     "DATE BUSINESS STARTED": "04/01/2018",
@@ -20,8 +20,8 @@
     "OTHER BUSINESSES OWNED": "N/A",
     "PREVIOUS CARRIER": "Sewing & Craft Insurance Group",
     "POLICY NUMBER": "FHSC-2022-002",
-    "TOTAL LOSSES": "$5,000.00",
-    "DESCRIPTION OF LOSSES": "On March 15, 2023, a small fire occurred in the storage area due to an electrical fault, which caused damage to some fabric inventory. The estimated loss amount was $5,000. The fire was extinguished with no injuries reported, and all safety protocols were followed. The incident has been resolved and is currently closed.",
+    "TOTAL LOSSES": "$1,000.00",
+    "DESCRIPTION OF LOSSES": "On March 15, 2023, a small fire occurred in the storage area due to an electrical fault, which caused damage to some fabric inventory. The estimated loss amount was $1,000. The fire was extinguished with no injuries reported, and all safety protocols were followed. The incident has been resolved and is currently closed.",
     "Combined Single Limit": "1000000/1000",
     "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
     "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $1,000",
@@ -71,8 +71,8 @@
       "I recently visited this fabric and sewing store, and I was thoroughly impressed by their wide selection of beautiful fabrics and high-quality sewing supplies. The staff was incredibly helpful and knowledgeable, offering great advice for my projects, and they made me feel welcome as I browsed their organized aisles. Whether you're a seasoned seamstress or just starting out, this store is a fantastic resource!",
       "The selection of fabrics and sewing supplies at this store is impressive, with a variety of options to suit different projects and skill levels."
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 1,
+    "Total Losses": 1000
   },
   "Final Decision": "ACCEPT",
   "Final Reason": "The application aligns with underwriting guidelines, has no significant claims history, and demonstrates effective risk management and safety protocols."
