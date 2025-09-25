@@ -65,16 +65,16 @@
     "Google Review Count": 75,
     "Average Review Rating": 4.6,
     "Sample Reviews": [
-      "I had a fantastic experience at Sew & Stitch Fabrics! The selection of fabrics was impressive, with a wide variety of colors and textures that inspired my latest projects. The staff was incredibly helpful, providing expert advice on sewing techniques and recommending the perfect materials for my needs. I\u2019ll definitely be returning for my next crafting adventure!",
-      "I recently visited the Fabric & Sewing Store and was impressed by the wide selection of fabrics and sewing supplies available. The staff was knowledgeable and helpful, providing great recommendations for my sewing project. Overall, it's a well-organized store that caters to both beginners and experienced crafters alike.",
-      "I recently visited Sew Crafty Fabrics, and I was thoroughly impressed with their extensive selection of high-quality fabrics and sewing supplies. The staff was incredibly knowledgeable and eager to help, providing great suggestions for my project. I left feeling inspired and can't wait to come back for my next sewing adventure!",
+      "I had a fantastic experience at Stitch & Craft Boutique! The selection of fabrics was impressive, with a wide variety of colors and textures that inspired my latest projects. The staff was incredibly helpful, providing expert advice on sewing techniques and recommending the perfect materials for my needs. I\u2019ll definitely be returning for my next crafting adventure!",
+      "I recently visited Stitch & Craft Boutique and was impressed by the wide selection of fabrics and sewing supplies available. The staff was knowledgeable and helpful, providing great recommendations for my sewing project. Overall, it's a well-organized store that caters to both beginners and experienced crafters alike.",
+      "I recently visited Stitch & Craft Boutique, and I was thoroughly impressed with their extensive selection of high-quality fabrics and sewing supplies. The staff was incredibly knowledgeable and eager to help, providing great suggestions for my project. I left feeling inspired and can't wait to come back for my next sewing adventure!",
       "I absolutely love this fabric store; the selection is fantastic and the staff is always incredibly helpful and friendly!",
       "I recently visited this fabric and sewing store and was pleased with the variety of fabrics available, ranging from cotton to specialty materials. The staff was knowledgeable and willing to assist with finding the right supplies for my project. Overall, it was a pleasant shopping experience that offered a good selection for sewing enthusiasts."
     ],
-    "Number of Claims": 0,
-    "Total Losses": 0
+    "Number of Claims": 2,
+    "Total Losses": 15000
   },
   "Final Decision": "REJECT",
-  "Final Reason": "The application is rejected due to exposure to flammables, explosives, or chemicals from the use of dyes and adhesives, which violates specific underwriting exclusions.",
+  "Final Reason": "The application is rejected due to severe claim amounts that resulted from a fire.",
   "Underwriting Guidelines": "\u2022 Preferred:\n\u2013 Businesses with no prior claim history, demonstrating a strong commitment to risk man-\nagement through comprehensive safety protocols, including fire prevention measures and\nregular equipment maintenance.\n\u2013 Stores that conduct regular employee training focused on safe handling of fabrics, sewing\nmachines, and chemicals (such as dyes or adhesives), as well as secure premises with\nadequate alarm and surveillance systems to deter theft and vandalism.\n\u2013 Operations that limit customer classes to small groups with certified instructors and\nmaintain up-to-date liability waivers.\n\u2022 Acceptable:\n\u2013 Businesses with minor or infrequent claims, such as small property damage or slip-and-\nfall incidents, provided corrective measures have been implemented.\n\u2013 Stores offering occasional sewing machine repair or maintenance services, assuming tech-\nnicians are properly trained and safety protocols are documented."
 }
