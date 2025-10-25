@@ -1,0 +1,180 @@
+{
+  "version": "v1",
+  "never_cover": [
+    {
+      "rule": "Criminal Fraud/Arson Convictions (Any Principal or Entity)",
+      "reason": "Unacceptable moral hazard.",
+      "gq_codes": [
+        "GQ-04"
+      ]
+    },
+    {
+      "rule": "Primary Hazardous Materials Operations (store/transport/treat/dispose/apply)",
+      "reason": "Environmental and severity profile incompatible with program.",
+      "gq_codes": [
+        "GQ-01",
+        "GQ-13"
+      ]
+    },
+    {
+      "rule": "Manufacturing/Mixing/Relabeling/Repackaging of Products (beyond incidental retail private label)",
+      "reason": "Manufacturing hazards out of BOP scope.",
+      "gq_codes": [
+        "GQ-10"
+      ]
+    },
+    {
+      "rule": "Prior SAM/Discrimination/Negligent Hiring Claims (substantiated)",
+      "reason": "High-severity liability indicator.",
+      "gq_codes": [
+        "GQ-15"
+      ]
+    },
+    {
+      "rule": "Uncorrected Fire Code Violations",
+      "reason": "Active life-safety deficiencies.",
+      "gq_codes": [
+        "GQ-16"
+      ]
+    },
+    {
+      "rule": "Explosives/Pyrotechnics/Fireworks Operations",
+      "reason": "Severity and accumulation risk.",
+      "gq_codes": [
+        "GQ-13"
+      ]
+    },
+    {
+      "rule": "Use of Subcontractors without Certificates of Insurance (no risk transfer)",
+      "reason": "Unbounded vicarious exposure.",
+      "gq_codes": [
+        "GQ-03"
+      ]
+    },
+    {
+      "rule": "Missing Required Licenses or Legally Mandated Insurance (e.g., WC with employees)",
+      "reason": "Statutory noncompliance.",
+      "gq_codes": [
+        "GQ-07"
+      ]
+    },
+    {
+      "rule": "Unsupported Catastrophe-Exclusive Risks (outside program capacity/filings)",
+      "reason": "Program limitation.",
+      "gq_codes": [
+        "GQ-14"
+      ]
+    },
+    {
+      "rule": "Material Equipment Rental/Loan to Others without Contracts/COIs",
+      "reason": "Products/completed ops without transfer.",
+      "gq_codes": [
+        "GQ-11"
+      ]
+    }
+  ],
+  "bind_preconditions": [
+    {
+      "item": "Subcontractor Certificates and Endorsements",
+      "verify": "COIs, limits, AI/waiver where required, logs",
+      "gq_codes": [
+        "GQ-03"
+      ]
+    },
+    {
+      "item": "Workers’ Compensation Evidence (or legal exemption)",
+      "verify": "Active policy/exemption prior to inception",
+      "gq_codes": [
+        "GQ-07"
+      ]
+    },
+    {
+      "item": "Fire Protection & Code Compliance",
+      "verify": "Clearance of violations; UL-300 & service records for cooking",
+      "gq_codes": [
+        "GQ-16"
+      ]
+    },
+    {
+      "item": "Financial Soundness Clarification",
+      "verify": "Explanation + current financials if distress in 5 years",
+      "gq_codes": [
+        "GQ-12"
+      ]
+    },
+    {
+      "item": "Hazardous Materials Incidental Use",
+      "verify": "SDS, quantities, storage method; confirm incidental scope",
+      "gq_codes": [
+        "GQ-01",
+        "GQ-13"
+      ]
+    }
+  ],
+  "gi_questions": [
+    {
+      "code": "GQ-01",
+      "question": "Hazardous materials storing/treating/discharging/applying/disposing/transporting?"
+    },
+    {
+      "code": "GQ-02",
+      "question": "Are athletic teams sponsored?"
+    },
+    {
+      "code": "GQ-03",
+      "question": "Are subcontractors allowed to work without COIs? If not, who checks certificates?"
+    },
+    {
+      "code": "GQ-04",
+      "question": "Any indictment/conviction for fraud, bribery, arson, or arson-related crime?"
+    },
+    {
+      "code": "GQ-05",
+      "question": "Any policy/coverage declined, canceled, or non-renewed during prior 3 years?"
+    },
+    {
+      "code": "GQ-06",
+      "question": "Do you lease employees to or from other employers?"
+    },
+    {
+      "code": "GQ-07",
+      "question": "Any Workers’ Compensation carried?"
+    },
+    {
+      "code": "GQ-08",
+      "question": "Do you own or operate any other business?"
+    },
+    {
+      "code": "GQ-09",
+      "question": "Any other insurance with this company? (List policy numbers)"
+    },
+    {
+      "code": "GQ-10",
+      "question": "Involved in manufacturing/mixing/relabeling/repackaging of products?"
+    },
+    {
+      "code": "GQ-11",
+      "question": "Do you rent or loan equipment to others?"
+    },
+    {
+      "code": "GQ-12",
+      "question": "Any foreclosure, repossession, bankruptcy, judgment, or lien in past 5 years?"
+    },
+    {
+      "code": "GQ-13",
+      "question": "Any exposure to flammables, explosives, or chemicals?"
+    },
+    {
+      "code": "GQ-14",
+      "question": "Any catastrophe exposure?"
+    },
+    {
+      "code": "GQ-15",
+      "question": "Any past losses/claims relating to SAM, discrimination, or negligent hiring?"
+    },
+    {
+      "code": "GQ-16",
+      "question": "Any uncorrected fire code violations?"
+    }
+  ]
+}
